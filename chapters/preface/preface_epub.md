@@ -71,6 +71,10 @@ und
 Alexander Correard,
 ::::
 
+:::: { .fs-xxs .align-center  }
+Ingenieur-Geographe
+::::
+
 :::: { .fs-xs .align-center  }
 beide Schiffbrüchige auf der Floße.
 ::::

@@ -5,7 +5,7 @@
 ::::
 
 ::: justified
-**D**ie Jahrbucher des Seewesens liefern kein Beispiel eines so schauderhaften
+**D**ie Jahrbücher des Seewesens liefern kein Beispiel eines so schauderhaften
 Schiffbruchs als der der Medusa. Zwei Unglückliche demselben wie durch ein Wunder
 entronnen, übernehmen hier das eben so herzbrechende als kitzliche Geschäft,
 alle Umstände dieses schrecklichen Ereignisses zu schildern.
