@@ -1,4 +1,4 @@
-# Die Fahrt der Deutschland.
+# Schiffbruch der Fregatte Medusa auf ihrer Fahrt nach dem Senegal.
 
 This is a git repository of the source files for the book
 "Schiffbruch der Fregatte Medusa auf ihrer Fahrt nach dem Senegal".
