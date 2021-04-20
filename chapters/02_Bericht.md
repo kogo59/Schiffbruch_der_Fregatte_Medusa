@@ -125,7 +125,7 @@ schicken, und wir traten die Fahrt wieder an, in dem wir noch an drei Seemeilen
 zurücklegten. Wir waren drei Stunden lang im Angesicht der Bucht von Funchal
 geblieben. Spät am Abend sah man Madera sehr deutlich; am folgenden Tage mit
 Sonnenaufgang entdeckte man die Inseln Salvages und des Abends den Pico von
-Teneriffa auf der Insel dieses Namens. Dieser hohe Berg,hinter welchem
+Teneriffa auf der Insel dieses Namens. Dieser hohe Berg, hinter welchem
 die Sonne so eben untergegangen war, gewährte
 uns ein wahrhaft majestätisches Schauspiel; sein erhabenes Haupt schien wie mit
 Feuer gekrönt. Seine Höhe über der Meeresfläche beträgt 3711 Metres, er liegt
@@ -268,7 +268,7 @@ haben, denn mit Tagesanbruch war sie nicht mehr zu sehen. Auf dem Meere ist es
 sehr leicht, eines Schiffes in der Entfernung von 6 Meilen ansichtig zu werden;
 sie müßte uns also von Mitternacht an, bis 6 Uhr Morgens um mehr als 6 Stunden
 übersegelt haben, was sich nicht denken läßt, denn sie fuhr viel langsamer als
-wir und machte alle 2 Stunden Halt, um das Senkbley auszuwerfen. Diese Trennnng
+wir und machte alle 2 Stunden Halt, um das Senkbley auszuwerfen. Diese Trennung
 läßt sich also nicht anders erklären, als daß man annimmt, entweder die Fregatte
 sey mehr südlich oder die Corvette mehr westlich gefahren. Wenn die beiden
 Schiffe, wie man behauptet, denselben Windstrich gehalten hätten, so wäre es
@@ -325,7 +325,7 @@ sahe Herr von Chaumareys mit sorgloser Gutmüthigkeit der Wendekreisposse zu,
 indeß derjenige der sein Vertrauen gewonnen hatte, auf dem Vordertheil der
 Fregatte umherging und mit kaltem Blute die zahlreichen Gefahren erblickte, die
 sich an der Küste zeigten. Mehrere Personen tadelten die eingeschlagene
-Richtung, unter andern der Gerichtsschreiber Herr Picard, der 8 Jahr zuvor auf
+Richtung, unter andern der Gerichtsschreiber Herr Picard, der 8 Jahre zuvor auf
 die Sandbank Arguin gestoßen war. Dieser gescheite Mann prophezeite uns schon
 jetzt, daß wir in Gefahr kommen würden.
 
@@ -808,7 +808,7 @@ befestiget war, mit welchem sie die Fahrzeuge heranzuschaffen suchten; aber
 plötzlich verursachte eine große Welle eine starke Erschütterung; die Leute
 mußen loslassen; die Boote wurden nun schneller getrieben, bis die Taue wieder
 gespannt waren; allein die Fahrzeuge strengten das Schlepptau so gewaltig an,
-daß es zerriß. Diese Art die letzte Verrätherei zu erklären, ist sehr fein
+daß es zerriß.“ Diese Art die letzte Verrätherei zu erklären, ist sehr fein
 ersonnen, und könnte leicht bei denen Eingang finden, die nicht an Ort und
 Stelle waren, aber uns will sie nicht einleuchten, denn wenn es darauf ankäme,
 so könnten wir selbst denjenigen nahmhaft machen, der das Seil fahren ließ.
@@ -996,7 +996,7 @@ zurückbliebe!
 Gegen 7 Uhr Morgens ließ der Wind etwas nach und die See ward ruhiger; aber
 welches Schauspiel bot sich jetzt unsern Blicken dar! Zehn oder zwölf
 Unglückliche waren mit den Füßen in den Lücken der Flöße dergestallt stecken
-geblieben „daß sie sich nicht wieder losmachen  konnten und hatten so ihren Tod
+geblieben daß sie sich nicht wieder losmachen  konnten und hatten so ihren Tod
 gefunden; mehrere andere hatte das Meer verschlungen. Als wir unsre kärgliche
 Mahlzeit hielten, theilte man andere Nummern aus, um nicht aus der Reihe zu
 kommen; es fehlten uns 20 Mann vielleicht auch nicht ganz so viel, denn es
@@ -1161,7 +1161,7 @@ sagten, auf dem Zwischendeck der Fregatte, einen Augenblick Ruhe zu genießen.
 Mehrere wähnten sich noch am Bord der Medusa, umgeben von denselben
 Gegenständen, die sie dort alle Tage vor Augen hatten. Andere sahen Schiffe und
 riefen sie um Hülfe an, oder eine Rhede in deren Hintergrund sich eine prächtige
-Stadt erhob. Mein Gefährte, Herr Cosrréard, glaubte sich in die schönen Gefilde
+Stadt erhob. Mein Gefährte, Herr Corréard, glaubte sich in die schönen Gefilde
 Italiens versetzt; einer von den Offizieren sagte ihm in allem Ernst: Ich
 besinne mich, daß uns die Boote verlassen haben, aber nur ruhig, ich habe so
 eben an den Gouverneur geschrieben; in einigen Stunden sind wir gerettet. Herr
@@ -1347,7 +1347,7 @@ war, sie zapften sie an, und tranken durch einen Rohrhalm; wir hatten alle
 demjenigen den Tod zugeschworen, der sich so etwas erlauben würde; wir erfüllten
 unsern Schwur sogleich an den beiden Meineidigen; sie wurden in's Meer geworfen^[^0434]^.
 
-Nun waren wir noch acht und zwanzig und nur funfzehn unter diesen schienen ihr
+Nun waren wir noch acht und zwanzig und nur fünfzehn unter diesen schienen ihr
 Leben noch einige Tage fristen zu können; alle andere mit tiefen Wunden bedeckt,
 hatten fast keine Besinnung mehr. Indeß bekamen sie doch ihren Theil von den
 Lebensmitteln, und konnten, nach unserer Berechnung, vor ihrem Tode noch dreißig
@@ -1363,7 +1363,7 @@ Mittel einschlügen, alles mit einem Worte hatte uns so hartherzig gemacht, daß
 jeder ohne Rücksicht auf andere nur noch auf seine eigene Erhaltung bedacht war.
 Drei Matrosen und ein Soldat übernahmen diese Greuelthat; wir wendeten unsere
 Blicke ab, und weinten blutige Thränen über das Loos dieser Unglücklichen.
-Dieses schmerzhafte Opfer rettete die funfzehn Uebrigbleibenden; denn als wir
+Dieses schmerzhafte Opfer rettete die fünfzehn Uebrigbleibenden; denn als wir
 von der Brick Argus aufgefunden wurden, hatten wir nur noch sehr wenig Wein, und
 dies geschah sechs Tage nach dem herzbrechenden Auftritt den wir so eben
 beschrieben haben; die Hingeopferten konnten doch höchstens nur noch acht und
@@ -1533,7 +1533,7 @@ einzog; bald aber that sie es; nun erhob sich ein Freudengeschrei von unsrer
 Flöße. Die Argus legte auf halb Pistolenschußweite an unsrer linken Seite bei.
 Die Mannschaft auf dem Schanzkleide und in den Wänden gab uns durch ihre
 Gebehrden und Hutschwenken, ihr Vergnügen zu erkennen, daß sie ihre
-unglücklichen Landsleute retten sollte. Man schickte sogleich ein Bot ab; ein
+unglücklichen Landsleute retten sollte. Man schickte sogleich ein Boot ab; ein
 Offizier von der Brick, Namens Lemaigre hatte es bestiegen, um in eigener Person
 uns der unseligen Maschine zu entreißen. Dieser menschenfreundliche und thätige
 Mann, benahm sich dabei auf eine wahrhaft rührende Weise; ja er entschloß sich,
@@ -1712,7 +1712,7 @@ jammervollen Zustand und bewunderten die Unerschrockenheit, die wir auf der
 Flöße gezeigt hatten. Indeß gab es doch unter der Menge einige, bei deren
 Anblick wir unsern Abscheu nicht ganz unterdrücken konnten.
 
-Die nun folgende Geschichte des Lagers von Dacard und der unglücklichen
+Die nun folgende Geschichte des Lagers von Daccard^[^0451]^ und der unglücklichen
 Schiffbrüchigen, die in den Hospitälern zu Saint-Louis blieben, wird einen
 besondern Abschnitt unsers Werkes ausmachen; zuvor aber wollen wir sehen wie
 sich die verschiedenen Fahrzeuge verhielten, nachdem die Schlepptaue losgelassen
@@ -1837,13 +1837,1320 @@ Gewinnsucht ihre Triebfeder, wenn sie etwa einige Verirrte zurechtwiesen.
 Frauen und Kinder erregten vorzüglich das tiefste Mitleid. Die armen Geschöpfe,
 die ohnehin ganz kraftlos waren, konnten ihre Füße in dem brennenden Sande nicht
 fortschleppen. Die Offiziere selbst erbarmten sich der Kinder und trugen sie
-einer um den andern.
+einer um den andern. Ihr Beispiel fand Nachahmer. Als man aber einige Mauren
+antraf, die Kameele und Esel bei sich hatten, setzten sich alle, die nicht mehr
+gut zu Fuße waren, auf diese Thiere, wofür sie aber täglich 2 Gourdes^[^0441]^
+bezahlen mußten. Herr Piccard konnte bei seiner zahlreichen Familie die Kosten
+dazu nicht bestreiten, seine Töchter mußten also zu Fuße wandern. Eines Tages um
+die Mittagsstunde wo wir gewöhnlich halt machten, entfernte sich die Aelteste um
+etwas auszuruhen. Um sich vor den Mückenstichen zu schützen, hatte sie sich in
+einen großen Shawl gehüllt. Sie schlief am Ufer ein. Einer von den Mauren die
+uns den Weg wiesen, kam zufällig vorbei. War es Neugierde oder sonst etwas,
+genug er trat ganz leise näher, betrachtete sie aufmerksam, lüftete das Tuch,
+welches ihr die Brust bedeckte, blieb eine lange Weile verwundert stehen, wagte
+es aber nicht sie anzurühren, sondern deckte sie vielmehr wieder zu und ging
+dann zu seinen Kameraden denen er voll Freuden erzählte was ihm vorgekommen war.
+Einige Franzosen, die alles mit angesehen, hinterbrachten es Herrn Piccard, der
+sogleich seine Töchter Mannskleider anziehen ließ, welche die Offiziere von den
+ihrigen hergaben. So hatten diese jungen Frauenzimmer in der Folge nichts mehr
+von den Barbaren zu befürchten.
 
+Noch ehe sie den Senegal erreicht hatten, kaufte der Irländische Kauffahrer
+einen Ochsen, und ließ ihn schlachten. Dann wurde Feuer gemacht; Jeder erhielt
+sein Stück Fleisch, das er an seinen Säbel oder sein Bajonett steckte und es so
+braten ließ.
 
+Zwieback, Wein und Brantwein, doch alles nur sehr spärlich zugemessen, machten
+in der Wüste ihren Lebensunterhalt; zuweilen kauften sie sich von den Mauren
+auch etwas Milch und Hirse. Ihr größtes Leiden blieb immer, daß sie sich auf
+keine Art vor der glühenden Sonne schützen konnten; manche litten darüber etwas
+am Verstande; auch zeigte sich zuweilen ein Geist des Aufruhrs und schon waren,
+zwei übrigens ganz unbescholtene Offiziere zu Schlachtopfern ausersehen; aber
+glücklicherweise kam es nicht zu Thätlichkeiten. Viele haben uns nach der Zeit
+versichert, daß sie wirklich zuweilen eine Art von Geistesabwesenheit an sich
+verspürt hätten.
 
+Ein Offizier von den Landtruppen besonders gerieth manchmal in die grausamste
+Verzweiflung. Dann warf er sich auf den Sand und bat seine Kameraden ihn todt zu
+schießen, weil er nicht länger solche Qualen ertragen könne. Indeß ließ er sich
+doch endlich zureden und kam mit der Karavane wohlbehalten in Saint-Louis an.
 
+Die 63, welche bei Angel gelandet waren, mußten länger leiden; sie hatten 80 bis
+90 Lieues in der unermeßlichen Wüste Sahara zurückzulegen. Nach ihrer Landung
+wateten sie lange über sehr hohe Sandhügel, um die Ebene zu erreichen, wo sie zu
+ihrer großen Freude einen großen Teich fanden, an dem sie sich lagerten und ihr
+Durst stillten. Einige Mauren, die sie zu gleicher Zeit antrafen, führten sie
+weiter und so gelangten sie endlich nach langen Märschen und grausamen
+Entbehrungen den 25ten Juli Abends an den Senegal. Einige kamen vor Elend um,
+unter andern ein Gärtner und die Frau eines Soldaten. Da sie es vor Müdigkeit
+nicht mehr aushalten konnte, bat sie ihren Mann sie zu verlassen und seine
+Reise allein fortzusetzen. Außer sich vor Verzweiflung rief er: Nun, da du nicht
+fort kannst, so sollst du wenigstens nicht von den Thieren zerrissen oder von
+den Mauren in Gefangenschaft fortgeschleppt werden; lieber durchbohr ich dich
+mit meinem Säbel; indeß erfüllte er nicht seine Drohung, aber das arme Weib fiel
+um und starb unter den grausamsten Qualen.
+
+Einige die sich von den Truppen entfernt hatten wurden von den Mauren
+aufgegriffen und in ihr Lager gebracht. Ein Soldat blieb über einen Monat unter
+ihnen, ehe er nach der Insel Saint-Louis zurückkehrte. Herr Kummer, ein
+Naturforscher und Herr Rogery, die sich ebenfalls von den Truppen trennten,
+kamen erst an den Senegal nachdem sie lange Zeit von Völkerstamm zu Völkerstamm
+umhergeirrt waren. Wir kommen jetzt auf ihre Geschichte mit welcher wir die der
+sämmtlichen Schiffbrüchigen beschließen.
+
+Gleich nach Scheiterung der Schaluppe verließ Herr Kummer die Karavane der
+Gescheiterten, und wendete sich westwärts um vielleicht Mauren anzutreffen und
+von ihnen Speise und Trank zu erhalten. Einen Augenblick nach seinem Abgange
+faßte Herr Rogery denselben Entschluß, und verfolgte seinen Weg in
+gleichlaufender Richtung mit dem des Herrn Kummer. Dieser lief den ganzen Tag
+ohne Jemand zu begegnen; gegen Abend bemerkte er in der Entfernung einige Feuer
+auf den Anhöhen. Er zitterte vor Freuden, denn er bildete sich ein, es seyen
+Mauren, die ihn nach Saint Louis führen und mit Lebensmitteln versorgen würden.
+Er ging festen und schnellen Schrittes vorwärts, trat mit viel Entschlossenheit
+vor die Mauren, die unter ihren Zelten lagerten machte tiefe Verbeugungen und
+brachte so gut er konnte, einige Worte auf Arabisch heraus, das er in Frankreich
+gelernt hatte. Beherberget, sagte er, unter euren Zelten den Sohn einer
+unglücklichen Mahomedanerin aus Ober-Egypten wohin ich auf dem Wege bin. Ein
+Schiffbruch hat mich auf eure Küsten geworfen; jetzt komm ich im Namen des
+großen Propheten und flehe euch an, um Gastfreundschaft und Hülfe. Bei dem Namen
+des großen Propheten fiel Herr Kummer auf die Kniee nieder, was die Mauren auch
+thaten, denn sie hielten ihn nun fest für einen Anhänger Mahomets. Sie nahmen
+ihn freundlich auf, führten ihn in ein Zelt und ließen sich seine Abentheuer
+erzählen. Dann setzten sie ihm Milch Früchte vor. Er mußte ihnen versprechen,
+sie an die Stelle zu bringen wo die große Schaluppe gescheitert war, denn sie
+hofften sich der Trümmer und der vielen Sachen zu bemächtigen, welche die
+Schiffbrüchigen vermuthlich dort im Stiche gelassen hätten. Darauf besah sich
+Herr Kummer die Zelte und Herden des Anführers dieses Stammes, der ihn selbst
+herumführte und dabei seine Reichthümer und hohe Abkunft nicht wenig erhob. Er
+war, wie er sagte, der Prinz Fune Fahdime Muhamed, ein Sohn des Liralie Zaide,
+gedrungen und sie wußten von Dingen, die sich Herr Kummer nicht vermuthen
+konnte. Unter andern fragten sie ihn, warum unsre Schiffe nicht mehr Portendick
+und die Inseln Arguin besuchten. — Endlich ließen sie ihn in Ruhe; aber der arme
+Toubabe, (so nennen die Mauren die Weißen), wagte es nicht sich dem Schlafe
+hinzugeben, denn er scheute sich vor ihrer Hinterlist und Raubsucht; indeß mußte
+er wohl, nach dreitägigen unterbrochenen Strapazen in eine Art von Schlummer
+versinken, der aber sehr unruhig war. Während desselben raubten ihm die Barbaren
+seine Börse mit 30 Stück Zwanzigfranken, Halsbinde, Schnupftuch, Ueberrock,
+Schuhe, Weste und einige andere Sachen, die er in der Tasche hatte. Es blieb ihm
+nichts übrig, als eine schlechte Hose und eine Jagdweste. Die Schuhe gaben sie
+ihm wieder.
+
+Am folgenden Tage, mit Sonnenaufgang hielten sie ihr Salam, (Morgengebet). Um 8
+Uhr brachen der Prinz, vier von seinen Unterthanen, Herr Kummer und ein Sklave
+nach dem Meeresufer auf, um die gestrandete Schaluppe aufzusuchen. Sie wendeten
+sich zuerst nach Süden, dann nach Westen und endlich nach Norden, was Herrn
+Kummer auf die Vermuthung brachte, aß sie ihn nach Marocco führten. Die Mauren
+kennen keine andere Art zu reisen, als daß sie von einem Erdhügel nach dem
+andern laufen, was sie nöthigt allerhand Richtungen einzuschlagen. Nachdem sie
+in der letztern sechs Lieues zurückgelegt hatten, schlugen sie sich wieder
+westwärts, dann südwestwärts und gelangten endlich ans Ufer, wo sie aber nicht
+viel fanden. Einige Stücke Messing fielen ihnen vorzüglich in die Augen; sie
+nahmen mit und beschlossen wiederzukommen, um die Trümmer der Schaluppe und
+einige Fässer zu holen, welche die Strömungen an die Küste geworfen hatten.
+Nachdem sie einige Stunden gegangen waren, stießen sie auf andere Mauren,
+ebenfalls Unterthanen des Prinzen Muhamed. Sie machten Halt und legten sich
+unter ihre Zelte; der Prinz nahm das schönste ein, ließ aber vorher dem
+erschöpften Toubaben einige Erfrischungen reichen. Hier mußte sich Herr Kummer
+viel gefallen lassen von den Frauen und Kindern, die ihn unaufhörlich betasteten
+weil sie an seiner feinen Haut ein großes Wohlbehagen fanden, oder auch wohl
+einen Fetzen von seinem Hemde abzureißen suchten. Abends bestürmte man ihn
+wieder mit Fragen über die blutigen Unruhen in Frankreich; er beschrieb sie
+ihnen auf dem Sande mit arabischer Schrift. Diese ungemeine Willfährigkeit, so
+wie der Glaube, daß er der Sohn einer Mahomedanerinn und eines Christen sey,
+machte ihn bei dem Prinzen Muhamed, so wie bei allen Mauren, die er auf seiner
+Reise antraf, ungemein beliebt. Alle Augenblicke bat der Prinz Herrn Kummer das
+Getriebe seiner Uhr spielen zu lassen, was die Mauren nicht wenig in
+Verwunderung setzte. Unser Reisende hingegen war nicht weniger erstaunt unter
+diesen Horden, fünf bis sechsjährige Kinder anzutreffen, die vollkommen arabisch
+schrieben.
+
+Am folgenden Tage dem 8ten sehr früh begaben sich die Mauren auf eine Anhöhe.
+Hier knieeten sie nieder, wendeten das Antlitz nach dem Morgen und erwarteten in
+dieser Stellung den Aufgang der Sonne, um ihr Salam zu verrichten, das sie in
+dem Augenblicke beginnen, wo sie am Horizont erscheint. Herr Kummer folgte ihnen
+machte ihnen alle ihre Gebräuche nach, und versäumte in der Folge nie das
+Morgengebet mit ihnen zu halten. Nach verrichteter Andacht, machten sich der
+Prinz und sein Gefolge wieder auf den Weg. Sie schlugen südwestlich ein worüber
+der arme Toubabe von neuem erschrak, denn er glaubte, sie würden sich wieder
+nach Norden wenden, und ihn nach Marocco führen. Er gab, so gut er konnte, dem
+Prinzen seine Besorgniß zu erkennen; dieser verstand ihn auch endlich. Um sich
+recht deutlich zu machen, zeichnete Herr Kummer sogar einen Theil der Karte von
+Afrika auf dem Sande. Indeß vernahm er von allen Seiten das Wort Andar, was
+seine Furcht nicht vermindern konnte. Nichts desto weniger hatten die Mauren
+Saint-Louis im Sinn, wovon er sich auch endlich überzeugte, indem er neben dem
+Wort Andar den Namen einer europäischen Faktorei zeichnete. Die Mauren gaben ihm
+zu erkennen, daß sie ihn begriffen hätten und brachen in laute Freude aus, daß
+ein Weißer ihre Sprache so gut verstände.
+
+Zu Mittage rasteten die Reisenden an den Ufern eines Salzsees. Herr Kummer legte
+sich in den Sand schlief bald ein. Unterdeß suchten die Mauren eine Frucht, die
+auf einem Strauche wächst, den man häufig in dieser Gegend findet. Es sind
+kleine rothe sehr kühlende Trauben. Die Mauren genießen sie sehr gern.
+
+Ein glücklicher Zufall wollte, daß Herr Rogery der ebenfalls den Mauren
+aufgestoßen war, sich um die selbe Zeit hier einfand. Sie führten ihn zu ihrem
+Beherrscher Zaide Er sah Herrn Kummer, der mit denn Gesichte auf der Erde lag;
+er hielt ihn für todt, und ein eiskalter Schauer fuhr ihm durch alle Glieder. Er
+beweinte den Tod eines Freundes, eines Unglücksgefährten. Zitternd trat er
+näher; jetzt kehrte sich seine Verzweiflung in Freude, als er bemerkte daß sein
+Freund noch athmete. Er umklammerte ihn, drückte ihn fest an sein Herz, und
+jeder freute sich inniglich mitten unter seinen Leiden einen Landsmann wieder zu
+sinden. Sie erzählten sich dieselben. Herr Rogery hatte alles verloren, ohngefähr
+vierzig Stück Zwanzigfranken, seine Uhr und vieles andere. Es blieb ihm nichts
+mehr übrig, als ein Paar schlechte Hosen, sein Hemde und ein Hut. Die Weiber der
+Mauren, noch mehr aber die Kinder hatten ihn sehr gequält; letztere knippen ihn
+beständig und ließen ihm keinen Augenblick Ruhe. Sein Gemüth war ganz verstimmt,
+und selbst sein Verstand etwas angegriffen, denn er hatte vor den Kindern kein
+Auge zuthun können. Nach gegenseitiger Mittheilung ihrer Leiden schliefen die
+beiden Unglücklichen ein. Wenig Stunden darauf kamen die Mauren wieder, und
+brachten ihnen von ihren eingesammelten Trauben. Die Karavane machte sich auf
+den Weg, und wendete sich südwestlich, nach dem Lager des Königs Zaide, wo sie
+noch denselben Abend ankam; allein der Monarch war abwesend; das Gerücht von
+unserm Schiffbruch hatte sich in seinem Lager verbreitet, und Zaide, der alles
+mit eigenen Augen sehen will, war nach der Küste aufgebrochen, um den
+Schiffbrüchigen, die er etwa antreffen möchte, hülfreiche Hand zu leisten. Er
+kehrte erst nach 24 Stunden zurück; bis dahin ruheten die beiden Reisenden aus,
+und schlossen einen Handel mit dem Prinzen Muhammed, der sich anheischig machte,
+sie nach Saint-Louis zu bringen. Er verlangte für seine Mühe von einem Jeden
+hundert Gourdes, die Reise- und Unterhaltungskosten mitgerechnet; wozu sie sich
+in arabischer Sprache schriftlich verpflichten sollten. Herr Kummer willigte
+ein, und sagte zu Herrn Rogery Sind wir nur einmal in Saint-Louis, so geben wir
+ihnen was wir wollen. Dieser trug Bedenken, ein solches Versprechen von sich zu
+geben, allein da er sah, daß die Mauren Anstalt machten ihn bei sich zu
+behalten, so ließ er sich endlich alle Bedingungen gefallen, und beide
+unterschrieben.
+
+Unsre Reisenden machten mancherlei Beobachtungen über die Sitten dieser Völker.
+So bemerkten sie unter andern, daß die Kinder über ihre Aeltern eine
+außerordentliche Herrschaft ausüben, besonders über ihre Mütter, die sich ihrem
+Willen nie widersetzen. Daher gewiß jene unbändige Herrschsucht die man bei
+diesen Völkern antrifft. Eine Weigerung oder ein Zögern in Vollstreckung ihrer
+Befehle, bringt sie oft in solche Wuth, daß sie den unglücklichen Sklaven, der
+sich ihren Unwillen zugezogen, auf der Stelle erstechen. Daher auch vielleicht
+jener Stolz, der überall Ehrfurcht und Unterwürfigkeit gebietet, In jeder
+Hinsicht sind die Mauren den Negern vorzuziehen; muthiger als diese, machen sie
+sie zu ihren Sklaven und gebrauchen sie zu den mühsamsten Arbeiten. Sie sind
+alle schön gewachsen; in ihrer Gesichtsbildung liegt etwas Edles, ja man möchte
+sagen Erhabenes. Sie beobachten viel Mäßigkeit im Essen und Trinken, und die
+Herren genießen keine bessere Kost als die Sklaven, die alle Schwarze sind. Die
+Väter und Mütter, so wie auch die Marabous (eine Art Priester) unterrichten in
+ihren Erholungsstunden die Kinder in der Religion, und lehren ihnen lesen und
+auf dem Sande schreiben. Die zahlreichen Frauen des Königs Zaide gehorsamen
+stillschweigend der Fatime, seiner Lieblingsgemahlin. Die Zahl der Männer,
+Weiber und Sklaven mag leicht bis auf 800 steigen. Der Reichthum des Königs
+Zaide besteht vorzüglich in den großen Heerden, die in seinem ziemlich
+ansehnlichen Gebiete auf verschiedenen Punkten zerstreut sind. Dies Gebiet
+erstreckt sich ohngefähr 60 Lieues längs der Küste, und ziemlich tief in's
+Innere der Wüste. Dieser Volksstamm führt den Namen Trazas, und bekennt sich zur
+mahomedanischen Religion. Sie machen Jagd auf Löwen, Tiger, Leoparden und andere
+reißende Thiere. Sie treiben Handel mit Häuten und Straußfedern; auch
+verfertigen sie eine Art braunes Schafleder, das nicht ganz schlecht ist; sie
+machen daraus Brieftaschen, vorzüglich in Gestalt von Säbeltaschen; sie gerben
+auch Ziegenfelle, die mehrere zusammen genäht, vortrefflich vor dem Regen
+schützen; der Zuschnitt ist ohngefähr wie der eines Kapuzinerkleides. Sie
+vertreiben alle diese Waaren, so wie die Goldschmidtsarbeiten, die sie mit einem
+einzigen Hammer und einem kleinen Amboß verfertigen, in dem Innern des Landes;
+aber ihr vorzüglichster, und weit ausgebreiteter Handel besteht in Salz, das sie
+in Tombucton^[^0442]^ und Sego absetzen. Dies sind zwei große und sehr volkreiche Städte
+im innern Afrika, letztere hart am Niger, 600 Lieues, erstere in der Nähe dieses
+Flusses, ohngefähr 500 Lieues westlich von der Insel Goree^[^0454]^. Die Marabous, welche
+fast alle Handelsleute sind, unternehmen oft Reisen bis nach Ober-Egypten.
+Mauren und Neger verehren ungemein diese Priester, die Futterale, Säckchen und
+Brieftaschen aus Leder verfertigen. Mit diesen kleinen Arbeiten treiben sie eine
+Art von Zauberei; sie sprechen darüber einige Zauberworte, oder legen Zettelchen
+mit arabischer Schrift hinein, und versichern daß derjenige, der sie an seinem
+Leibe trägt, von dem Bisse der reißenden Thiere nichts zu befürchten habe. Sie
+verkaufen diese Amulette sehr theuer, und die Abkäufer legen einen großen Werth
+darauf. Der König und die Prinzen sind eben so abergläubisch wie ihre
+Unterthanen; manche tragen zwanzig solche Zettelchen an Hals, Armen und Beinen.
+
+Als der Tag sich geneigt hatte, kam der König Zaide Er hatte kein äußeres
+Unterscheidungszeichen an sich, sondern zeichnete sich nur durch seine Größe und
+eine glückliche Gesichtsbildung aus; aus dem linken obern Kinnbacken gingen 3
+große Zähne um wenigstens zwei Linien über die Unterlippe hervor, was die Mauren
+für eine große Schönheit halten. Er war bewaffnet mit einem großen Säbel, einem
+Dolch und einem Paar Pistolen; seine Soldaten hatten Lanzen und kleine türkische
+Säbel. Sein Lieblingsneger, der ein Halsband von rothen Perlen trägt, und Rillai
+heißt, geht nie von seiner Seite. Zaide nahm die beiden Weißen freundlich auf,
+befahl sie gut zu behandeln, und Herrn Rogery, den die Kinder unaufhörlich
+quälten, von nun an in Ruhe zu lassen. Herr Kummer war viel heiterer und suchte
+sich seine Leiden aus dem Sinne zu schlagen; er schrieb arabisch, hatte sich für
+den Sohn einer Mahomedanerin ausgegeben; alles das gefiel den Mauren die mit ihm
+freundschaftlich umgingen; dahingegen Herr Rogery zu sehr von seinem Unglück
+angegriffen, auch noch seine letzten Habseligkeiten verloren hatte und den
+Mauren nicht viel Gutes zutraute. Noch denselben Tag befahl der König Herrn
+Kummer ihm die Geschichte unsrer letzten Revolution zu erzählen; die der ersten
+war ihm schon bekannt. Herr Kummer verstand nicht so recht was der König von ihm
+wollte; darauf ließ Zaide von seinem Minister auf dem Sande die Karte von
+Europa, vom mittelländischen Meere und der afrikanischen Küste zeichnen, gab
+selbst die Stelle der Insel Elba an und verlangte nun einen umständlichen
+Bericht von allen Vorfällen, die seit dem Augenblick wo Bonaparte jene Insel
+verließ, bei uns statt gefunden hatten. Herr Kummer ergriff diese Gelegenheit
+seine Uhr zurückzufordern und der König befahl seinem Sohn, sie dem Toubaben
+wieder zu geben, der nun seine Erzählung anfing. Da er den ehemaligen Kaiser
+bald Bonaparte, bald Napoleon nannte, so fragte ihn ein Marabou, ob das der
+General wäre, dessen Armeen er bei seiner Wallfahrt nach Mecca in Ober-Egypten
+gesehen hätte, und als Herr Kummer es bejahte, so brachen der König und sein
+Gefolge in laute Verwunderung aus; sie konnten nicht begreifen, wie ein
+Heerführer sich bis zu der Kaiserwürde emporgeschwungen hätte; wahrscheinlich
+hatten sie bis dahin Napoleon und Bonaparte für zwei verschiedene Personen
+gehalten. Weiter fragten sie Herrn Kummer, ob sein Vater bei der Armee von
+Egypten gedient hätte. Er antwortete nein, er sey ein sehr friedliebender
+Kaufmann gewesen und habe nie die Waffen geführt. Dann fuhr er in seiner
+Erzählung fort, die je länger je mehr den König und seinen ganzen Hof in
+Erstaunen setzte. Tags darauf verlangte Zaide noch einmal die beiden Weißen zu
+sehen, von denen er immer etwas Neues erfuhr. Er entließ die Mauren, welche
+Herrn Rogery gebracht hatten und befahl seinem Sohn, in Begleitung von einem
+seiner Minister, zwei andern Mauren aus seinem Gefolge und einem Sklaven, die
+beiden Weißen nach Andar zu führen. Sie machten diese Reise auf Kameelen. Bevor
+Zaide sie entließ, setzte man ihnen noch einige Erfrischungen vor und versorgte
+sie mit Lebensmitteln. Er empfahl Herrn Kummer, seine Uhr um sie vor der
+Raubsucht der Mauren zu schützen dem Prinzen Muhamed in Verwahrung zu geben, der
+sie ihm nach ihrer Ankunft zu Saint-Louis wieder zustellen würde, was der Prinz
+auch pünktlich erfüllte.
+
+Vor ihrer Abreise wollte Zaide seinen beiden Gästen noch einen Beweis geben, wie
+sehr er über die Aufrechthaltung der Landesgesetze wachte und selbst sie mit der
+größten Strenge ausübte. Zu dem Ende erzählte er ihnen Folgendes:
+
+Zwei Prinzen, Unterthanen von mir, lagen mit einander in Streit; sie nahmen mich
+zum Schiedsrichter, allein beide fanden meine Vorschläge nicht annehmlich, so
+vernünftig sie mir auch schienen; sie geriethen vielmehr so sehr in Eifer, daß
+sie mein Zelt verließen und ihre Sache mit den Waffen ausmachen wollten. Einer
+von ihnen der Kleinste, dem ich besonders gewogen war, wurde von seinem Gegner
+zu Boden geworfen und mit dem Dolch erstochen. So schmerzhaft es mir seyn mußte,
+meinen Freund auf diese Art vor meinen Augen sterben zu sehen, so durfte ich
+doch nicht den Tod dieses geliebten Prinzenrächen, wollte ich nicht den Gesetzen
+zuwider handeln, welche unter uns den Zweikampf erlauben. Dieser Zug mag euch
+beweisen, wie gewissenhaft ich die Gesetze beobachte, welche alle Stände,
+Fürsten wie Bürger und Sklaven bei ihren Rechten schützen.
+
+Drei oder vier Tage nachdem unsre Reisenden das Lager des Königs Zaide verlassen
+hatten, rasteten sie, wie gewöhlich in den heißen Mittagsstunden. Als sie noch
+im Essen begriffen waren, zog der Minister, der die Contracte des Prinzen mit
+den beiden Franzosen in seiner Verwahrung hatte, den des Herrn Rogery aus der
+Brieftasche. Dieser griff hurtig darnach und zerriß ihn in tausend Stücken.
+Sogleich fiel ein Maure über ihn her, warf ihn zu Boden und wollte ihn mit
+seinem Dolch erstechen. Glücklicherweise gab es der Prinz nicht zu, sondern
+begnadigte Herrn Rogery aus Achtung für Herrn Kummer, den er sehr lieb gewonnen
+hatte. Aber er mußte nicht wenig leiden während der 5 Tage, die sie noch
+unterweges waren. Die Mauren gaben ihm nicht satt zu essen, so daß er oft an den
+Knochen nagen mußte, die sie wegschmissen; auch ließen sie ihn den ganzen Weg zu
+Fuße machen, der bei den vielen Umwegen, bis Saint-Louis wenigstens 140 Lieues
+betrug.
+
+Der ehrwürdige strenggewissenhafte Rogery ängstigte sich beständig, wenn er an
+das schriftliche Versprechen dachte, welches er dem Prinzen Muhamed in einem
+bedenklichen Augenblick von sich gegeben und doch nicht die geringste Aussicht
+hatte, jemals erfüllen zu können. Er fürchtete sich seine Landsleute möchten von
+diesem Vertrage hören und ihm alles Ehrgefühl absprechen, wenn er sein Wort
+nicht gehalten hätte Dies trieb ihn zu dem verzweifelten Schritte, der ihm
+leicht das Leben kosten konnte.
+
+Am 19ten früh erreichten sie ein Dorf, das an einem Arme des Senegal liegt. Sie
+fanden die Ufer vortreflich angebaut. Ueberall sahen sie Baumwollenbäume, Mais
+und Hirsefelder, wie auch kleine Büsche, welche bei der großen Hitze sehr
+willkommen und der Gesundheit zuträglich seyn müssen. Herr Kummer ist der
+Meinung, daß die Colonialerzeugnisse in dieser Pflege sehr gut gerathen würden.
+Hier fängt Nigritien^[^0443]^ an und man kann wohl auch sagen, das Land der gutmüthigen
+Leute, denn von jetzt an fehlte es unsern Reisenden nicht mehr an Lebensmitteln;
+die Neger gaben ihnen alles was sie brauchten.
+
+In dem nächsten Dorfe, Namens Vu trafen sie eine gute Negerin, die ihnen Milch
+und Couscous (Hirsemehl) vorsetzte. Sie vergoß Thränen bei dem Anblick dieser
+beiden unglücklichen fast nackten Weißen, noch mehr aber als sie hörte, daß sie
+Franzosen wären. Sie sagte viel zum Lobe unsrer Nation und erzählte dann mit
+wenigen Worten ihre eigenen Drangsale. Die Mauren hatten sie aus den Armen ihrer
+Mutter gerissen und in Sklaverei geschleppt. Auch wurden sie von ihr
+verabscheut; sie nannte sie nicht anders als die Räuber der Wüste und fragte die
+beiden Weißen auf gut französisch: Nicht wahr, das sind garstige Leute? Ja wohl,
+antworteten ihr unsre beiden Landsleute. — Nun, fuhr sie fort, diese Räuber
+entführten mich, trotz allem Abwehren meines Vaters, der mich muthvoll in Schutz
+nahm; hierauf verheerten sie unser Dorf, wo einen Augenblick zuvor noch Glück
+und Ruhe herschten. Ganze Familien wurden an diesem schrecklichen Tage
+fortgeschleppt und man führte uns alle zu Markte nach Saint-Louis, wo die Weißen
+ihren verruchten Menschenhandel treiben. Ein günstiges Schicksal wollte, daß ich
+mir nicht den Tod in America holen durfte; ich war so glücklich an den
+ehrwürdigen General Blanchot^[^0444]^ zu kommen, dessen Andenken den Bewohnern
+von Saint Louis ewig theuer bleiben wird. Dieser würdige Mann behielt mich
+einige Jahre in seinen Diensten; da er aber sah, daß ich mein Land nicht
+vergessen und mich in eure Gebräuche nicht finden konnte, schenkte er mir die
+Freiheit. Seitdem hege ich eine ewige Freundschaft für jeden Franzosen. Unsere
+beiden Weißen fühlten sich bei dieser Rede tief gerührt. Es schien ihnen als
+wären sie mitten unter ihren Landsleuten Einige Stunden darauf setzten sie ihren
+Weg fort und fanden überall gutmüthige Neger, die es ihnen an nichts fehlen
+ließen. Je näher sie an die Stadt kamen, je gefälliger zeigten sich die Mauren,
+und endlich als sie nur noch der Fluß von Saint-Louis trennte, gab der Prinz
+Muhamed Herrn Kummer seine Uhr zurück. Der französische Gouverneur nahm den
+Prinzen und sein Gefolge sehr gut auf. Er ließ ihnen ohngefähr 60 Franken in
+Zweisousstücken auszahlen, was ihnen ungeheuer viel schien, denn sie waren damit
+sehr zufrieden. Vermuthlich also kannten sie nicht den Werth einer Gourde, als
+sie noch vor weniger Zeit von unsern beiden Reisenden für die Auslösung eines
+jeden 800 verlangten. Der 22te Juli war der Tag ihrer Ankunft in Saint-Louis,
+nachdem sie 16 Tage in der Wüste Sahara umhergeirrt waren, während welcher, Herr
+Rogery besonders, neben seinen andern Leiden, auch noch viel Plackereien von den
+Mauren auszustehen hatte.
+
+Nachdem nun alle gerettete Schiffbrüchige in Saint-Louis versammelt waren,
+hofften wir unvorzüglich unsre Niederlassungen in Besitz zu nehmen, allein so
+wie der englische Gouverneur von unserm Schiffbruch Kunde hatte, weigerte er
+sich die Niederlassung zu übergeben. Herr von Chaumareys mußte also neue Befehle
+aus Frankreich abwarten und erhielt unterdeß die Weisung alle Schiffbrüchige,
+die sich in Saint-Louis einstellen möchten, sogleich von da zu entfernen.
+
+Der englische Gouverneur benutzte jeden Umstand, der ihm Anlaß gab mit der
+Uebergabe zu zögern. Er schützte vor, seine Regierung habe ihm dazu noch keinen
+ausdrücklichen Befehl gegeben, und es mangele ihm an Schiffen, um die Truppen
+und das englische Eigenthumfortzuschaffen; allein dies waren wohl nur leere
+Ausflüchte, denn wie hätte er sonst den französischen Gouverneur abgewiesen, als
+dieser in der Absicht jeden Anstand zu heben, sich erbot, ihm die Flüte die
+Loire zu gebenum seinen Abzug zu bewerkstelligen? Mehr als Alles aber leuchtet
+wohl aus diesen ewigen Zögerungen jener abgefeimte Handelsgeist hervor, welchen
+England bei allen seinen Verhandlungen blicken läßt. Herr Beurthonne mochte
+freilich von seiner Regierung Befehl haben, die Inseln Saint-Louis und Goree der
+französischen Flotte zu übergeben, die beordert werden würde sie in Besitz zu
+nehmen; aber wahrscheinlich sollte er es nur so spät als möglich thun, wenn er
+sähe, daß für Englands Handel oder Regierung durch einen Aufschub etwas zu
+gewinnen wäre. Uebrigens stellen wir hier nur Vermuthungen auf; da sie aber
+durch spätere Begebenheiten einigermaßen bestätigt wurden, so durften wir wohl
+unsre Meinung laut sagen.
+
+Hatte Herr Beurthonne von seiner Regiernng keinen ausdrücklichen Befehl zur
+Uebergabe der Niederlassung, so durfte er ja nicht erst unnöthigerweise den
+Mangel an Fortschaffungsmitteln vorschützen. Aber wird man fragen, was konnte
+dieser Aufschub den Englände für Vortheile bringen? — Wir wollen sehen.
+
+Die Gummiernte stand vor der Thür; es war also natürlich, daß die englischen
+Kaufleute am Senegal sie gern für sich halten wollten, da sie im Fall der
+Uebergabe an unsre Regierung, den französischen Handelsleuten; zu Gute gekommen
+wäre. — Dazu kam noch daß die schlechte Jahreszeit heranrückte, wo die
+englischen Ländereyen am Flusse Gambia (dem Bestimmungsorte der englischen
+Garnison) überaus ungesund sind, indem dort um diese Zeit tödtliche Krankheiten
+herschen, die oft zwei Drittel der neu angekommenen Europäer wegraffen. Dies
+geschieht jedes Jahr und trifft also auch jede neue Besatzung, die hierher
+beordert wird. Diejenigen, welche so glücklich sind diese fürchterlichen Seuchen
+zu überstehen, werden, um vollkommen zu genesen, auf die Insel Gorea geschaft,
+wo die Luft ziemlich gesund ist. Dies waren unsrer Meinung nach, die Ursachen,
+welche die Uebergabe unsrer Besitzungen an der Afrikanischen Küste so sehr
+verspätigten.
+
+Der Schiffbruch der Fregatte Medusa begünstigte die Absichten des Gouverneurs;
+denn welchen Eindruck konnte eine Ausrüstung machen, wovon das Hauptschiff nicht
+mehr war, und man die drei übrigen nur eins nach dem andern ankommen sah? Hätten
+auch die Engländer den guten Willen gehabt, uns die Colonie gleich nach unserer
+Ankunft zu übergeben, so mußte doch der elende Zustand in welchem wir uns
+zeigten, sie schon auf den Gedanken bringen, die Insel Saint-Louis so spät als
+möglich zu räumen. Allein unbegreiflich bleibt es, wie der Gouverneur nach einer
+freundschaftlichen Aufnahme von einigen Tagen, verlangen konnte, daß die
+französischen Truppen die Colonie verließen. Und wer waren denn diese Truppen?
+Unglückliche, die fast nichts auf dem Leibe hatten, die abgezehrt von Strapazen
+und Leiden aller Art, noch dazu mehrentheils keine Waffen bei sich führten.
+Fürchtete er sich vor der ihm ungünstigen Stimmung der Pflanzer und Neger welche
+die Franzosen mit Freuden kommen sahen? Das läßt sich kaum vermuthen.
+
+Nachdem also, wie schon gesagt alle Schiffbrüchige zu Saint- Louis beisammen
+waren, entschloß sich der Gouverneur, zwei Tage vor seiner Abfahrt nach dem
+Cap-Verd^[^0452]^, ein Schiff nach der Medusa auszuschicken um 100,000 Franken und
+Lebensmittel zu holen, wovon sich noch auf derselben ein großer Vorrath befand,
+dahin gegen die Colonie anfing daran Mangel zu leiden. Man sprach nur wenig von
+den Unglücklichen, die an Bord geblieben waren, und denen man geschworen hatte,
+sie gleich nach der Ankunft in Saint-Louis abzuholen. Bei seinem ersten Ausgange
+besuchte Herr Corréard die Familie des Gouverneurs; das Gespräch fiel auf die
+Goelette^[^0445]^, die man aussenden wollte, um wo möglich die 100&nbsp;000 Franken,
+etwas Lebensmittel und andere Sachen mehr zu holen. Da er bemerkte, daß man von
+den siebzehn Unglücklichen, die auf der Fregatte geblieben waren kein Wort
+fallen ließ, erlaubte er sich zu sagen: Aber mehr als Alles verdienen wohl die
+siebzehn Unglückliche Aufmerksamkeit, die man verlassen hat. Pah! hieß es,
+siebzehn? es sind ihrer nur noch drei. Und wären es nur drei, antwortete er,
+wäre es nur einer, so ist sein Leben mehr werth als Alles was sich auf der
+Fregatte vorfinden kann; und sofort entfernte er sich voll Unwillen.
+
+Dieses kleine Fahrzeug war von einem Schiffslieutenant angeführt. Die Mannschaft
+bestand aus einigen Reisenden und Negern; letztere waren zum Tauchen
+abgerichtet. Es fuhr am 26ten Juli von Saint-Louis ab; da es aber nur auf 8 Tage
+Lebensmittel eingenommen hatte, und mit widrigen Winden kämpfen mußte, so sah es
+sich genöthigt in den Hafen zurückzukehren, nachdem es so lange die Medusa
+vergeblich aufgesucht hatte. Es nahm nun auf 25 Tage Mundvorrath an Bord und
+stach abermals in See. Das Segelwerk war zwar sehr schlecht beschaffen, allein
+man besserte es nur obenhin aus, weil der Eigenthümer mit dem Schiffe nicht eher
+eine Veränderung vornehmen wollte, als bis es zum Dienste ganz untüchtig seyn
+würde. Ein heftiger Sturm, den es auf dieser zweiten Fahrt auszustehen hatte,
+machte die Segel fast unbrauchbar und so mußte es abermals nach vierzehn Tagen
+unverrichteter Sache in den Hafen zurückkehren. Man versah es nun mit neuen
+Segeln, dies erforderte 10 Tage Arbeit; darauf stach es wieder in See und fand
+endlich die Medusa 50 Tage nachdem man sie verlassen hatte. — Sehr natürlich
+entsteht hier die Frage: War denn auf der ganzen Niederlassung kein anderes
+Schiff vorhanden als diese Goelette? Oh ja! Einige andere Handelsleute boten
+die ihrigen an, aber sie wurden abgewiesen. Der Gouverneur wollte lieber nur mit
+einem Hause zu thun haben, als mit mehrern, die ihm doch alle mögliche
+Anerbietungen machten und gleichsam auf halbem Wege entgegen kamen. Herr
+D......r allein erhielt den Vorzug. Er machte dem Gouverneur einen Vorschuß von
+50,000 Franken an Lebensmitteln und baaren Gelde; auch beherbergte er Herrn
+Chemals nebst seiner Familie und einer zahlreichen Dienerschaft. Man sagte sich
+so ziemlich laut, daß alle diese kleinen Gefälligkeiten Herrn D......r wohl 100
+pro Cent einbringen mochten. Ueberdieß erhielt er auf Ansuchen des Gouverneurs
+jenes Ehrenzeichen, das nur für eine wahrhaft glänzende That und nicht für eine
+gelungene Handelsunternehmung aufgehoben seyn sollte. Doch wir kommen wieder auf
+die Goelette. Welch ein Entsetzen für die Mannschaft, als sie auf der Medusa
+noch drei Unglückliche antraf, die mit dem Tode rangen! Gewiß, das hatte sie
+nicht erwartet; aber wie schon gesagt, es waren siebzehn verlassen worden. Wir
+wollen jetzt berichten, wie es den vierzehn übrigen gegangen ist.
+
+Sobald die Fahrzeuge und die Flöße sich von der Medusa entfernt hatten, waren
+die siebzehn Verlassenen auf ihren Lebensunterhalt bedacht; sie durchsuchten
+alle Stellen wo das Wasser noch nicht hingedrungen war und fanden so viel
+Zwieback, Wein, Brantwein, und geräucherten Speck, daß sie eine geraume Zeit
+davon leben konnten. So lange die Lebensmittel dauerten, blieben sie ziemlich
+gefaßt, aber als nach 42 Tagen immer noch keine Hülfe erschien, kamen zwölf der
+Entschloßensten auf den Gedanken, alles zu versuchen, um das Land zu erreichen.
+Sie bauten aus verschiedenen Stücken und dem Takelwerck, die sie noch auf der
+Fregatte vorfanden, eine Art von Flöße nach dem Muster der ersten, und richteten
+darauf ihre Fahrt nach dem Lande. Aber was stand von einer Maschine zu erwarten,
+der es sehr wahrscheinlich an Rudern und Segeln fehlte? Die Trümmer der Flöße,
+welche die Mauren nach der Zeit an der Küste der Wüste Sahara fanden, beweisen
+nur zu deutlich, daß diese unglücklichen ein Opfer ihres verzweifelten
+Entschlusse wurden und jämmerlich umkamen.
+
+Ein Matrose, der Bedenken getragen hatten sich dieser Flöße anzuvertrauen,
+machte bald darauf einen andern Versuch das Land zu erreichen; er setzte sich in
+einen Hühnerbehälter, aber auf halber Kabellänge von der Fregatte sank er unter.
+
+Vier Männer entschlossen sich die Fregatte nicht zu verlassen, und wollten
+lieber an Bord sterben als sich neuen Gefahren aussetzen, die ihnen
+unüberwindlich schienen. Einer von ihnen hatte eben den Geist aufgegeben, als
+die Goelette ankam; die drei andern waren so schwach, daß sie es auch höchstens
+nur noch 2 Tage ausgehalten hätten. Sie verhielten sich jeder an einem
+abgesonderten Ort, den sie nur verließen um sich etwas Lebensmittel zu holen,
+die in Brantwein, Talg und geräuchertem Speck bestanden. Wenn sie sich zufällig
+begegneten, so drohten sie sich mit ihren Messern. So lange sie noch etwas Wein
+hatten, waren sie ziemlich bei Kräften geblieben, allein so wie sie sich nur mit
+Brantwein begnügen mußten, wurden sie mit jedem Tage schwächer^[^0446]^ — Gleich
+nachdem man sie hier getroffen hatte, pflegte man sie aufs sorgfältigste und sie
+genießen noch jetzt einer vollkommnen Gesundheit. Bald darauf durchsuchte man
+die Fregatte und schafte alles heraus was sich noch fortbringen ließz. B. Mehl,
+Wein und einige andere Sachen. Herr Corréard bildete sich ein, die
+Schiffbrüchigen würden doch einiges von ihren Habseligkeiten wieder erhalten,
+weil ein königliches Schiff zuerst bis an die Medusa gekommen war, aber er irrte
+sich sehr; die Goelettenfahrer wurden zu Corsaren und plünderten ohne Umstände
+was ihnen unter die Hände kam. Ein gewisser M...... erholte sich an einigen
+Felleisen und 4 Hangebetten mit allerhand Sachen. — Die 100,000 Franken fanden
+sich nicht wieder.
+
+Nachdem die Goelette ihre volle Ladung eingenommen hatte, steuerte man nach dem
+Senegal. Bei dem Anblick dieses kleinen Fahrzeuges schlug uns das Herz vor
+Freude; wir hofften unsre unglücklichen Landsleute wieder zu sehen und einige
+Kleidungsstücke zu erhalten, die uns ganz abgingen. Unsre erste Frage war, wie
+viel Unglückliche gerettet seyen, worauf man uns antwortete: Drei sind am Leben
+und 14 gestorben. Diese Antwort donnerte uns zu Boden. Weiter erkundigten wir
+uns, ob sich nicht manches von unsern Sachen vorgefunden hätte. Ja hieß es, man
+hat sie aber für gute Prise erklärt. Wir hatten Mühe diese Antwort zu verstehen,
+aber man wiederholte sie uns, und wir sahen nun wohl, daß wir es mit Franzosen
+zu thun hatten, die uns als Feinde behandelten, weil unser Unglück grenzenlos
+war.
+
+Gleich folgenden Tages verwandelte sich die Stadt in einen Jahrmarkt, welcher 8
+Tage dauerte. Hier verkaufte man ohne Unterschied Staatseigenthum so gut wie
+Habseligkeiten der Schiffbrüchigen, die umgekommen waren. Alles wurde feil
+geboten; Kleider der Lebenden und der Todten, Zimmergeräthschaften des
+Commandanten, Flaggen aus welchen sich die Neger Mäntel machten, Takelwerk und
+Segel der Fregatte, Betttücher, Hangebetten, Decken, Bücher, Instrumente u. a.
+D. m.
+
+Aber jenes Heiligthum, angebetet von jedem Manne, dem Ehre über alles geht,
+jenes Zeichen zum Siege oder Tode, die Nationalflagge, wo ist sie hingekommen?
+...... Sie wurde gerettet. ...... Kam sie an einen Franzosen? ...... Nein ......
+Derjenige, der ein ehrwürdiges Zeichen schändet, das einem ganzen Volke heilig
+ist, kann nicht zu diesem Volke gehören. Ach, daß wir es sagen müssen! Dieses
+ehrwürdige Panier wurde zu dem niedrigsten Hausbedarf verwendet^[^0447]^.
+Gefäße, die dem Commandanten der Fregatte gehörten, wanderten von seinem
+Schenktisch auf die Tafel des Gouverneurs, wo Herr von Chaumareys, wie er selbst
+uns gesagt, sie mit eigenen Augen sah. Freilich ging es sehr natürlich zu; die
+Gemahlin und Fräulein Töchter des Gouverneurs erhielten sie zum Geschenk von
+einem der Herren, die sich am Bord der Goelette befunden hatten.
+
+Die Stadt wimmelte von Negern, die sich mit Westen oder Pantalons brüsteten;
+andere zeigten sich in großen grauen Ueberröcken, Hemden, Gilets oder Mützen;
+alles ging bunt durcheinander. Uebrigens kamen die von der Goelette
+mitgebrechten Lebensmittel sehr gelegen, denn man litt bereits großen Mangel
+daran.
+
+Einige Tage darauf ward es den Handelsleuten in Saint Louis gestattet, unter
+folgenden Bedingungen Schiffe auszurüsten und an Bord der Fregatte Medusa zu
+schicken: die Ausrüstung sollte auf ihre Kosten statt finden und das von der
+Fregatte gerettete Gut in zwei gleiche Hälften getheilt werden, die eine für die
+Regierung, die andere für die Kauffahrer. Vier Goeletten stachen in See und
+erreichten in wenig Tagen ihre Bestimmung. Sie brachten eine große Menge Fässer
+Mehl, geräuchertes Fleisch, Wein, Brantwein, Takelwerck, Segeltuch u. s. w. Das
+Ganze war in 20 Tagen geschehen. So wie die Goeletten nach und nach ankamen,
+hätte man doch billig die Güter bis zur Ankunft des Gouverneurs, der abwesend
+war, in Niederlagen schaffen sollen, denn nur unter seiner oder einer anderen
+Behörde Aufsicht ließ sich eine vernünftige Austheilung vornehmen. Allein was
+geschah? Die Unternehmer konnten es nicht erwarten; sie gingen zu Herrn P......
+und baten ihn die Vertheilung vorzunehmen. Er that es. Wir wollen nicht
+untersuchen, ob er dazu befugt war; auf alle Fälle aber durfte er es um so
+weniger ohne Zuziehung eines Statsbeamten thun, da er selbst einer der
+Unternehmer war. Es befanden sich ja um die Zeit vier oder fünf solcher Beamten
+in Saint-Louis, unter andern der Oberschreiber und der Zahlmeister, aber keiner
+wurde eingeladen, diesem Geschäfte beizuwohnen, das doch einige Tage dauerte.
+Indeß, Ehre wem Ehre gebühret; die Kauffahrer zeigten sich edelmüthiger gegen
+die Schiffbrüchigen, als die Mannschaft der Goelette, denn sie lieferten ihnen
+die etlichen Bücher und Habseligkeiten aus, die sich noch vorfanden.
+
+Bald nach diesen Raubvertheilungen (zu Anfange Octobers), erhielten einige
+französische Offiziere, Soldaten und Matosen von dem englischen Gouverneur
+Befehl, sofort Saint-Louis zu verlassen und sich in das Lager von Daccard zu
+begeben. Herr Corréard war der einzige, der noch da blieb, um seine vollkommene
+Genesung abzuwarten. Wir wissen nicht aus welchen Gründen dieser Gouverneur
+gegen einige 20 hülflose Gestrandete so strenge Maßregeln ergriff; es waren
+darunter 3 Offiziere, die sich mit auf der Flöße befanden. Indeß erlaubte er
+doch den Verwaltungsbeamten in der Stadt zu bleiben.
+
+Ehe wir weiter gehen, bemerken wir, daß wir uns vorbehalten noch ganz besonders
+von einigen Unglücklichen zu sprechen, die der Flöße und der Wüste wie durch ein
+Wunder entronnen, hinterher noch die größten Leiden in einem Hospitale zu
+erdulden hatten. Diese Geschichte, die keine andere ist als die des Lagers von
+Daccard, soll unser Gemälde vollenden. Erst aber müssen wir noch alles einholen,
+was sich seit dem 23ten Juli zugetragen, an welchem Tage sich die von der Flöße
+und die 63 beisammen fanden, welche die Schaluppe bei Angel ans Land gesetzt
+hatte. — Wir beziehen uns dabei auf Herrn Savigny, dessen Bericht folgendermaßen
+lautet.
+
+Der Commandant der Flöße und ich, wir wurden beide auf Senegal von Herrn
+Lasalle, einem französischen Handelsmann, sehr freundlich aufgenommen. Er war
+unter allen Umständen für uns auf das eifrigste besorgt und ersparte uns
+tausendfache Leiden, welche unsre Unglückgefährten seitdem noch auszustehen
+hatten; auch gebührt ihm dafür unser innigste Dank.
+
+Herrn Corréard ging es nicht so gut; denn als er mit seinen Leidensbrüdern am
+ganzen Leibe wund und fast ohne Leben in Saint-Louis angekommen war, legte man
+sie auf elende Gurtbetten und gab ihnen statt Matrazen, vierfach zusammengelegte
+wollene Decken mit ekelhaft schmuzigen Betttüchern. Die 4 Landoffiziere wurden
+ebenfalls in einem Saale des Lazareths untergebracht, so wie die Matrosen und
+Soldaten in einem andern daran stoßenden. Das Lager war für alle gleich
+beschaffen. lm Abend ihrer Ankunft erhielten sie einen Besuch von dem
+Gouverneur, dem Commandanten der Fregatte und einem zahlreichen Gefolge. Die
+ungemeine Theilnahme welche man ihnen zeigte, rührte sie tief; man versprach
+ihnen Zeug zu ihrer Bekleidung, Wein zur Stärkung und Waffengeräthe sich zu
+zerstreuen, wann sie im Stande seyn würden auszugehen. Leere Versprechungen. Nur
+dem Mitleid von Fremden verdankten sie 5 Monate lang ihren kärglichen Unterhalt.
+Als der Gouverneur diesen traurigen Verlassenen seine Abreise nach dem Lager von
+Daccard ankündigte, sagte er ihnen, er habe dafür gesorgt, daß es ihnen während
+seiner Abwesenheit an nichts fehlen möge. Mit ihm zogen alle Franzosen ab, denen
+es ihre Gesundheitsumstände erlaubten, in See zu gehen.
+
+Sich selbst überlassen in diesem abscheulichen Wohnplatz, von Menschen umgeben,
+denen ihre schreckliche Lage nicht das geringste Mitleiden einflößte, seufzten
+die jammervoll Verlassenen und erhoben vergebliche Klagen. Umsonst stellten sie
+dem englischen Arzt vor, daß die gewöhnliche Ration ihnen durchaus nicht zusagen
+könnte, da ihre heruntergekommene Gesundheit (wenn man es anders mit ihrer
+Herstellung ernstlich meinte) doch eine etwas ausgesuchtere Kost verlangte als
+die eines gesunden Soldaten, und überdieß auch jeder Offizier in allen Ländern
+hierin gewisse Vorzüge genösse. Der Arzt blieb unerbittlich; er antwortete, es
+seyen ihm keine Befehle zugekommen und er könne also nichts ändern. Nun wendeten
+sie sich mit ihren Klagen an den englischen Gouverneur, der eben so unbarmherzig
+war. Es steht doch zu vermuthen, daß Herr von Chemals vor seiner Abreise ihm die
+unglücklichen Verlassenen angelegentlichst empfohlen hatte. Wenn dem so ist, muß
+Herr Beurthonne wohl kein sehr menschenfreundliches Herz haben.
+
+Welcher Unterschied zwischen dem Betragen dieses Mannes und dem der englischen
+Offiziere, die gemeinschaftlich mit denen der Garnison, nach dem Innern von
+Afrika eine Reise unternahmen! Ihrem großmüthigen Beistande verdankten die von
+der Flöße entkommenen Offiziere die größte Linderung ihrer Leiden und vielleicht
+selbst das Leben. — Denn als diese Herren einige Tage nach Ankunft der
+Gescheiterten ihre schreckliche Lage erfahren hatten, verfügten sie sich in das
+Lazareth, holten die 4 Offiziere ab, die schon im Stande waren auszugehen und
+erboten sich bis zur Uebergabe der Colonie ihren Tisch mit ihnen zu theilen^[^0448]^.
+Schon 40 Tage genossen sie diese großmüthe Pflege ohne daß sich dieselbe auch
+auf den unglücklichen Corréard erstrecken konnte, denn seine schweren Wunden
+erlaubten ihm noch nicht das Krankenzimmer zu verlassen, und dazu kam der
+gänzliche Mangel an Kleidungsstücken; er hatte zur Bedeckung nichts als sein
+Betttuch in welchem er sich einhüllte so gut es ging. Seit der Abreise des
+Gouverneurs war keine Reden mehr von Franzosen. Dies verdoppelte natürlich seine
+Unruhe, so wie die Begierde seine Landsleute wieder zu sehen, bei denen er Trost
+und Linderung zu finden hoffte; denn er hatte einige Freunde unter den
+Offizieren und Reisenden in dem Lager von Daccard. So stand es um ihn als er
+nach Verlauf von 40 Tagen bei einem amerikanischen Kauffahrer, der im Begriff
+war, nach dem Cap-Verd zu segeln, anfragen ließ, ob er ihn wohl mitnehmen
+wollte. Dieser verstand sich dazu, mit der Bemerkung, daß er in 2 Tagen
+abzureisen gedächte. Indeß nahm Herr Kummer Gelegenheit, in Gegenwart des Majors
+Peddy, Anführers der englischen Expedition nach dem Innern von Afrika, seine
+Besorgnisse über die nahe Abreise seines Freundes zu äußern, denn, sagte er
+unter andern, wie will Herr Corréard bei seiner so ganz zerrütteten Gesundheit
+es in dem ungesunden Lager von Daccard lange aushalten? Kaum hatte der
+gefühlvolle Kummer ausgesprochen, so entfernte sich der Major, ging auf sein
+Zimmer und packte Wäsche, Kleider und Geld zusammen. Dabei vergoß er Thränen
+über das Loos dieses Unglücklichen, den er nicht kannte, und verwünschte
+tausendmal diejenigen, die ihn so unbarmherzig verlassen hatten. Sein Unwille
+war gerecht, denn er wußte sehr wohl, daß seit der Abreise des Gouverneurs weder
+dieser noch andere Franzosen sich im geringsten um Herrn Corréard bekümmert
+hatten.
+
+Während Major Peddy für den armen Corréard so eifrig besorgt war, saß dieser auf
+seinem elenden Bette und überdachte sich seinen jammervollen Zustand. Alles was
+jetzt um ihn her vorging griff ihn weit mehr an, als alle seine Leiden auf der
+Flöße. War ich auch da, sagte er bei sich selbst, mit den schwersten Wunden
+bedeckt, so fühlte ich doch nicht diese gänzliche Abspannung meiner Kräfte, die
+mir ein langsamer aber sicherer Vorbote des Todes ist. Vor 2 Monaten noch war
+ich ein rüstiger Mann, der es mit jeder Art von Strapazen aufnahm, jetzt aber in
+diesem abscheulichen Wohnplatz ist mein Muth verschwunden. Vergebens hab ich um
+Hülfe angefleht, die nicht aus Mitleiden sondern nur von Neugier angetrieben,
+mir ihren Besuch abstatten. So besuchte man zu Lüttich den braven Gouffin dem
+es, Dank seinen unerhörten Anstrengungen, gelungen war, sich aus den
+eingestürzten Steinkohlenwerken hervorzuarbeiten unter denen er verschüttet lag.
+Aber glücklicher als ich, erhielt er den Orden der Ehrenlegion und einen
+Jahrhalt von dem er leben konnte. Wäre ich in Frankreich, so würden Verwandte
+und Landsleute mir in meinen Leiden Linderung verschaffen; aber hier, unter
+einem brennenden Himmel, wo mir alles fremd ist; umgeben von den hartherzigen
+Afrikanern, die bei dem gewohnten Anblick der Grausamkeiten womit der
+Sklavenhandel begleitet ist alles Gefühl verlieren, hier find ich nirgends
+Erleichterung. Vielmehr kündigt mir Alles meine nahe Auflösung an; die langen
+Nächte, meine unausgesetzten Leiden, der Anblick meiner Unglücksgefährten, der
+ekelhafte Schmutz in welchem ich leben muß, die schlechte Pflege eines immer
+betrunkenen und sorglosen Krankenwärters, die unerträgliche Härte eines elenden
+Bettes, das noch dazu allen Ungemächlichkeiten der Witterung ausgesetzt ist! Was
+bleibt mir also übrig als dem Tode ruhig und gefaßt entgegen zu gehen? Auf der
+Flöße war ich nicht so zu beklagen; da befand ich mich in einem gewissen
+Zustande der Bewustlosigkeit einer Folge meiner gelähmten Geisteskräfte aber
+hier gequält von tausend finstern Gedanken, sehe ich noch dazu wie jeden Tag
+einige der Unglücklichen, die mein Schicksal theilen, mir voran in das Grab
+sinken^[^0449]^!
+
+Er war noch in diesem traurigen Selbstgespräch begriffen, als er 2 junge
+Offiziere hereintreten sah; ihnen folgten 4 Sklaven, die allerhand Sachen
+trugen. Die beiden Offiziere traten mit Freundlichkeit zu dem traurigen
+Corréard, und sagten: Nehmen sie mit diesen Kleinigkeiten vorlieb; sie kommen
+von dem Major Peddy und dem Capitain Camphell. Und wir, mein Herr, wir freuen
+uns die Ersten zu seyn, die Ihnen Hülfe bringen. Alle unsre Kameraden lassen Sie
+bitten, uns ohne Rückhalt Ihre Bedürfnisse zu eröfnen. Es versteht sich von
+selbst, daß Sie, so lange wir beisammen sind, unsern Tisch mit uns theilen; der
+Major und alle Offiziere laden Sie ein, hier zu bleiben und sich nicht in das
+verpestete Lager von Daccard zu begeben, wo Sie in wenig Tagen das Opfer einer
+tödtlichen Krankheit werden könnten. Es wäre Undank die beiden jungen Männer
+nicht zu nennen; der eine hieß Beurthonne, war aber kein Verwandte des
+Gouverneurs dieses Namens, der andere Addam.
+
+Während die edelmüthigen Offiziere ihre schöne Sendung mit so viel Artigkeit und
+Schonung erfüllten, trat der Major Peddy in den Saal, und mit ihm ebenfalls
+Sklaven, die den verlassenen Corréard noch mehr Sachen brachten, deren er
+bedürftig war. Der Major trat zu ihm, drückte ihn weinend in seine Arme und
+schwor ihm eine Freundschaft, die sich, so lange er bei ihm blieb, keinen
+Augenblick verläugnete. Nachdem er sich etwas von der Pein erholt hatte, die er
+bei dem Anblick dieses Fremden fühlte, den er zu retten gekommen war, machte er
+Herrn Corréard die verbindlichsten Anerbietungenund damit dieser sie nicht
+ausschlagen möchte, betheuerte er ihm, daß er nebst einigen seiner Kameraden
+ebenfalls einmal bei den Franzosen großmüthige Hülfe gefunden; ein Franzose,
+fügte er hinzu, dürfe ihn also nicht um die Ehre bringen, sich wo möglich bei
+seiner Nation für die Wohlthaten abzufinden, die er von ihnen genossen^[^0450]^. Wie
+hätte Herr Corréard wohl ein solches Anerbieten von sich weisen können! Wie
+billig nahm er es an mit der Versicherung, er würde sich glücklich schätzen, so
+viel Freundschaft zu verdienen, und wünsche nichts sehnlicher als dereinst seine
+Erkenntlichkeit auf eine würdige Art an den Tag zu legen. Von der Zeit an ließen
+es der Major und seine Offiziere Herrn Corréard an nichts mehr fehlen, und man
+kann wohl sagen, daß sie ihm und den 4 französischen Offizieren das Leben
+retteten.
+
+Am 24ten August 35 Tage nach unsrer Ankunft in Saint-Louis, verschied Herr
+Clairet. Herr Corréard hatte den Schmerz ihn an seiner Seite den Geist aufgeben
+zu sehen und von ihm zu hören, daß er ruhig stürbe, da er noch Gelegenheit
+gehabt hätte seinem Vater einen unehlichen Sohn zu empfehlen, den er zärtlich
+liebte Um diese Zeit genoß Herr Corréard noch nicht den freundschaftlichen
+Beistand des Majors; er hatte keine Kleidung und konnte also dem
+Leichenbegängniß seines unglücklichen Gefährten nicht beivohnen. Dieser junge
+Offizier wurde ehrenvoll begraben. Auch hier zeigten sich der Major Peddy und
+die englischen Offiziere im schönsten Lichte. Sie folgten sämmtlich dem
+Leichenzuge, und beorderten dazu eine zahlreiche Abtheilung ihrer Truppen, so
+wie alle Unteroffiziere ihres Regiments. Die Bürgerschaft nebst dem
+Bürgermeister schlossen sich ebenfalls an. Mit einem Worte, man unterließ
+nicht, um dem Andenken unsers Waffengefährten alle Ehre zu erweisen, die seinem
+Range und seinem traurigen Schicksale gebührten.
+
+Dieser brave Krieger, der nur 28 Jahr alt war, zählte 8 Dienstjahre. Er
+verdankte seiner ausgezeichneten Tapferkeit in den Gefechten von Talavera, la
+Reina, la Siera-Morena, Saragossa, Montmiraille, Champaubert und Montereau, den
+Orden der Ehrenlegion, den er auf dem Maifelde erhielt. Auch machte er die
+verhängnißvolle Schlacht von Waterloo mit, wo er die Fahne seines Regiments
+trug.
+
+So war die Lage der Dinge auf Saint-Louis. Jetzt stellte sich die böse
+Jahreszeit ein, die hier den Europäern so verderblich ist, und mit ihr
+verbreitete sich jene Menge Seuchen, die so oft tödtlich werden. Wir kommen nun
+auf die Unglücklichen im Lager von Daccard, bei dem Dorfe dieses Namens auf der
+Halbinsel des Cap-Verd.
+
+Endlich, da, wie schon gesagt, dem französischen Statthalter die Besitznahme der
+Colonie fortwährend verweigert wurde, entschloß er sich nach dem Cap-Verd
+aufzubrechen dessen Besitz man den Franzosen nicht streitig machte, und dort ein
+Lager zu beziehen. Am 6ten Juli nahmen die Brigg Argus und ein dreimastiges
+Fahreug der Herren Potin und Durécur die annoch vorhandene Mannschaft der
+Fregatte Medusa auf; sie bestand aus denen, die bei Portendick gelandet waren
+und einigen andern, die sich auf der Flöße befunden hatten; die Schwerkranken
+blieben in dem Lazareth zu Saint-Louis Beide Fahrzeuge gingen bald unter Segel
+und erreichten noch denselben Abend wohlbehalten die Rhede von Boree. Am
+folgenden Tage schaffte man die Leute in das Lager von Daccard, wo sich bereits
+mehrere Soldaten und Matrosen befanden, welche durch die Wüste gezogen, nachdem
+die Loire sie nebst dem Commandanten der Fregatte und einer Kompanie
+Colonialsoldaten ans Land gesetzt hatte. Den Oberbefehl über dieses Lager
+erhielt Herr von Fonsain, ein achtungswürdiger Greis, der diese Ehre mit seinem
+Leben büßte, dahingegen der Statthalter sich die Insel Goree zum Aufenthalt
+wählte, um dem Lager und den Schiffen gleich nahe zu seyn, vielleicht aber auch
+um seine Gesundheit besser zu schonen.
+
+Da durch den Schiffbruch der Fregatte die Zahl der Besatzung sich sehr
+vermindert fand und auch eine Menge Lebensmittel verloren gegangen war, so mußte
+man ein Schiff nach Frankreich schicken, sowohl um den mannigfaltigen
+Bedürfnissen abzuhelfen, als um neue Verhaltungsbefehle einzuholen. Zu dem Ende
+ging die Corvette Echo den 29ten Juli Abends unter Segel. Auf derselben befanden
+sich 53 Schiffbrüchige worunter 8 Seeoffiziere, der Stabswundarzt, der
+Zahlmeister, drei Marinezöglinge und noch ein Wundarzt. Nach einer Fahrt von 35
+Tagen ankerte sie in der Rhede von Brest. Herr Savigny behauptet, er habe seit
+seinem sechsjährigen Seedienst nie ein so schönes noch so gut bedientes Fahrzeug
+gesehen als diese Corvette. Doch wieder zu dem Lager von Daccard. — Es war, wie
+schon gesagt, auf dem Cap-Verd bei dem Negerdorfe Daccard aufgeschlagen. Die
+Inländer schienen es sehr gern zu sehen, daß die Franzosen sich an diesem Theil
+der Küste niederließen. Als aber nach einigen Tagen die Matrosen und Soldaten
+Händel bekamen, schickte man erstere fort und vertheilte sie auf der Loire und
+dem Argus.
+
+Die Lagernden wurden bald von den einheimischen Krankheiten befallen. Sie hatten
+nur eine elende Kost und die meisten litten ohnehin an den Folgen ihrer
+langwierigen Strapazen. Ihr ganzer Unterhalt bestand in einigen Fischen, sehr
+schlechtem Rum und etwas Brod oder Reis; die Jagd gab auch wohl etwas her; aber
+die großen Streifzüge, die sie oft unternehmen mußten, um sich einiges Wild zu
+verschaffen, hatten einen sehr nachtheiligen Einfluß auf ihre Gesundheit. Es war
+in den ersten Tagen des Juli als die böse Witterung sich einstellte und die
+grausamen Krankheiten erzeugte, die ihre schädlichen Wirkungen um so schneller
+und fürchterlicher äußerten, da die bedauernswürdigen Franzosen schon ganz an
+Kräften erschöpft waren. Oft hatten die Aerzte nicht einmal Zeit genug die
+Chinarinde zu bereiten, von der sich ohnehin nur ein sehr geringer Vorrath in
+den Lazarethen vorfand. Um diese Zeit übernahm Herr von Chaumareys selbst den
+Oberbefehl. Man traf bessere Anstalten und steuerte der Entwendung der
+Chinarinde; aber nun hatte man wieder mit der Ruhr zu kämpfen, die oft tödtlich
+wurde. Ueberall stieß man auf Unglückliche, die in ihrem Elend verzweifeln
+wollten und sich nach dem Vaterlande sehnten; fast gebrach es an Krankenwärtern.
+Bemerkenswerth bleibt es, daß die Mannschaften auf den Fahrzeugen vor der Insel
+Goree, beinahe ganz von den schädlichin Wirkungen der bösen Jahreszeit befreit
+blieben; freilich waren sie auch besser beköstiget, gekleidet und vor den
+Einflüssen der Witterung verwahrt; auch weiß man daß diese Rhede gesund ist,
+während auf dem festen Lande die Krankheiten sehr leicht um sich greifen. So
+standen die Sachen in dem Lager von Daccard als am 10ten November der
+französische Statthalter von dem englischen Generalgouverneur Herrn Macarty
+ermächtigt Würde, auf der Küste der ehemaligen französischen Besitzungen, an
+einem ihm beliebigen Ort seine Wohnung aufzuschlagen. Herr von Chemals wählte
+Saint-Louis^[^0453]^.
+
+Da wir beide nicht in dem Lager von Daccard geblieben sind, so haben wir nicht
+alle Ereignisse in demselben umständlich angeben können.
+
+Herr Corréard, der sich bei der Ankunft des französischen Gouverneurs noch in
+Saint-Louis aufhielt, beeilte sich ihm seine Aufwartung zu machen. Der
+Gouverneur empfing ihn sehr gnädig, bedauerte ihn von Herzen und versicherte die
+Schuld läge nicht an ihn daß Herr Corréard so schlecht abgewartet worden sey.
+„Unter allen Gestrandeten;“ sagte er, „sind Sie am schlimmsten weggekommen; das
+weiß ich längst, aber ihre Drangsale sind nun zu Ende, und es soll Ihnen
+fernerhin an nichts mehr fehlen. Ich will Ihnen alle Tage sehr gut zubereiteten
+Reis, Fleisch, Wein und vortrefliches Brod schicken. Auch habe ich Ihnen bereits
+Wohnung und Tisch bei Herrn Monbrun ausgemacht, wo Sie sehr gut aufgehoben seyn
+werden.“ Allein diese Versprechungen gingen eben so wenig in Erfüllung als die
+ersten. Doch eines Tages da ihn sein Fieber heftiger angriff, schrieb Corréard
+an den Gouverneur ein Billet worin er ihn ersuchte, ihm eine Flasche Wein so wie
+auch Brantwein zu schicken. Er erhielt beides. Als aber der Fieberanfall vorüber
+war, hatte er große Lust dies Geschenk zurückzuschicken allein er besann sich
+anders und behielt es lieber um auf keine Weise anzustoßen. Das ist alles was er
+in den 5 Monaten, die er auf Saint-Louis zubrachte, von den französischen
+Behörden erlangte. Ja sehr wahrscheinlich wäre er nach Frankreich
+zurückgekommen, ohne seiner Regierung auch nur einen Heller gekostet zu haben,
+hätte er nicht in der Fieberhitze diese Bitte gethan, die ihn hinterher
+einigermaßen gereute.
+
+Den 23ten oder 24ten November sah er noch einmal seine beiden Wohlthäter, den
+Major Peddy und den Capitain Camphell, die auf ihrer großen Reise nach dem
+Innern von Afrika begriffen waren. Es gehörten zu dieser Unternehmung außer dem
+Major als Oberanführer und dem Capitain, der die astronomischen Beobachtungen
+leiten sollte, ein junger Arzt, der Naturforscher Kummer ein Sachse, der das
+französische Bürgerrecht erhalten hatte, ein Mulatte als Dolmetscher, 30
+europäische Soldaten, die fast alle Handwerker waren, 100 Negersoldaten, nebst
+ohngefähr 10 Kamelen, 150 Pferden, eben so viel Eseln und Lastochsen; also in
+Allem beinahe 130 Menschen und 400 Thiere. Die gesammte Mannschaft ward auf
+sechs Fahrzeugen eingeschifft, welche den Rio Grande bis auf 40 Meilen ins
+Innere hinanfuhren. Der Major Peddy, dieser hochherzige Mann, verfiel bald nach
+seiner Abreise von Saint-Louis in eine bösartige Krankheit, die seinem Leben ein
+Ende machte. Ach daß auch solche Männer der Tod ereilt!
+
+Da die englischen Aerzte sahen, daß Herrn Corréard Gesundheitsumstände, weit
+entfernt sich zu bessern, mit jedem Tage sich verschlimmerten, so bewogen sie
+ihn nach Frankreich zurückzukehren. Sie gaben ihm zu dem Ende ein Certificat,
+welches dem französischen Gouverneur alle Ausflüchte benahm. Auch hatte dieser
+nichts gegen das Gesuch einzuwenden und 2 Tage darauf erhielt Herr Corréard die
+förmliche Einwilligung: aber aus welchem Grunde eigentlich, das wird sich erst
+in der Folge zeigen.
+
+Den 28ten November früh Morgens begab er sich auf einem Kutter an Bord der
+Loire, die im Begriff stand nach Frankreich abzusegeln. Gleich nach dem
+Einsteigen überfiel ihn sein Fieber, das sich fast alle Tage einstellte, und ihn
+jetzt um so heftiger angriff, da nichts ihn vor den Sonnenstrahlen schützte, die
+ihm senkrecht auf den Kopf fielen. Dazu kam noch ein schmerzhaftes Erbrechen. Das
+kleine Fahrzeug ward plötzlich durch gänzliche Windstille noch in der Mündung
+des Flusses aufgehalten. Man bemerkte dies am Bord der Loire und schickte
+sogleich einen Kahn ab, um die Reisenden aus der Sonnengluth zu schaffen.
+Während dieser Kahn heranfuhr, schlief mein unglücklicher Freund auf einem
+Haufen Taue ein, aber noch ehe der Schlaf seine Augen zudrückte, hörte er eine
+Stimme: Nun, der kommt gewiß nicht bis nach Frankreich. In einer Viertelstunde
+war der Kahn heran. Alle, die sich um den Kranken befanden, schifften sich ein,
+aber keiner nahm sich die Mühe ihn zu wecken; sie ließen ihn 5 Stunden lang in
+der Sonnengluth liegen. Die 13 Tage auf der Flöße ausgenommen, hätte er in
+seinem Leben nicht so viel gelitten. Als er beim Erwachen fragte, wo denn die
+Herren hingekommen wären, antwortete man ihm, sie seyen abgefahren, ohne daß
+auch nur einer daran gedacht hätte, ihn mitzunehmen. Endlich brachte ein
+günstiger Windstrich den Kutter bis an die Loire. Herr Corréard stieg ein;
+machte aber dabei, selbst in Gegenwart der Matrosen, denen die ihn verlassen
+hatten, die bittersten Vorwürfe und führte sogar beleidigende Reden. Man sahe in
+dem Allem nur Ausbrüche des Wahnsinnes und Niemand nahm ihm die harten
+Wahrheiten übel. Die Loire ging am 1ten Dezember unter Segel und kam den 27ten
+desselben Monats in Frankreich an.<br /><br />
+
+In Rochefort angelangt, verfügte sich Herr Corréard sogleich zu dem
+Marineintendanten, der ihn sehr gut aufnahm und ihm erlaubte so lange im
+Lazareth zu bleiben als seine gänzliche Wiederherstellung es erfordern möchte.
+Er kam in einen Offiziersaal, wo die Oberärzte nächst sorgfältiger Pflege und
+ärztlicher Behandlung, ihm alle mögliche Achtung bewiesen und auf mancherlei Art
+Trost zusprachen. Ich besuchte ihn hier alle Tage; oft sagte er mir? Ich bin nun
+glücklich; endlich habe ich Männer gefunden, die meinen Leiden nicht ungerührt
+zusehen. Nach dreißigtägiger Abwartung in diesem schönen Hospital, fühlte er
+sich so weit hergestellt, daß er es verlassen und sich in den Schoos der
+Seinigen zurückziehen konnte.
+
+Nun noch eine gedrängte Erzählung von dem, was sich seit unsrer Rückkehr in
+Fraukreich mit uns zugetragen. Herr Savigny hielt sich für befugt alle Leiden zu
+beschreiben, die er mit seinen Unglücksgefährten während 13 Tage auszustehen
+hatte. Sollte es wohl Unglücklichen verwehrt seyn, mit ihren Klagen laut zu
+werden? Und doch mußte er neue Widerwärtigkeiten erfahren, weil er sich nicht
+entschließen konnte, jene schrecklichen Ereignisse mit Stillschweigen zu
+übergehen.
+
+Während seiner Ueberfahrt auf der Corvette Echo verfaßte er einen Bericht, den
+er sich vornahm dem Marineminister vorzulegen. So wie er in Frankreich
+angekommen war, rieth man ihm nach Paris zu reisen, wo er gewiß Theilnahme
+finden und sogar eine Belohnung erhalten würde, die er in jeder Rücksicht so
+sehr verdiente. Er folgte diesem Rath und begab sich mit seinem Bericht nach
+Paris, wo er den 11ten September anlangte. Hier ging er sogleich zum Minister
+und übergab ihm sein Schrift über den Schiffbruch der Medusa. Aber wie groß war
+sein Erstaunen als er Tages darauf im Journal des Debats einen Auszug aus seinem
+Berichte las, der fast Wort für Wort mit dem seinigen übereinstimmte! Oh
+untersuchen auf welchem Wege der Herausgeber dazu gekommen war, begnügen wir uns
+folgende Umstände anzuführen. Als Herr Savigny sich noch in Brest aufhielt,
+ersuchte ihn Jemand um die Abschrift seines Berichts und versprach sie an den
+Marineminister zu befördern. Herr Savigny verstand sich um so eher dazu, weil er
+damals noch gar nicht willens war sich nach Paris zu verfügen. Wahrscheinlich
+kam diese Abschrift nur durch Unvorsichtigkeit in die Hände des Herausgebers,
+ohne daß Jemand die Absicht hatte, Herrn Savigny zu schaden. Nichtsdestoweniger
+zog ihm dieses Kundwerden die bittersten Verweise zu. Gleich am folgenden Tage
+mußte er beim Marineminister erscheinen, wo man ihm sagte, Seine Excellenz seyen
+sehr ungehalten, und er habe sofort zu beweisen, daß er an dieser Bekanntmachung
+durchaus unschuldig sey. Er ging sogleich zu dem Herausgeber des Journal des
+Debats und dieser stand keinen Augenblick an folgende schriftliche Erklärung von
+sich zu geben:
+
+„Ich erkläre hierdurch, daß mir der Bericht von dem Schiffbruch der Fregatte
+Medusa, so wie er sich in dem Blatte vom 13ten September befindet, nicht durch
+Herrn Savigny zugekommen ist. Unterzeichnet, der Herausgeber des Journal des
+Debats.“
+
+Allein diese Erklärung befriedigte nicht den Minister. Er wollte auch noch
+wissen, auf welchem Wege der Herausgeber zu der Handschrift gekommen sey. Darauf
+gab dieser folgendes Zeugniß: „Ich erkläre, daß der im Blatte vom 13ten
+September eingerückte Aufsatz mir nicht von Herrn Savigny, sondern von dem
+Ministerium der ..... zugestellt wurde.“
+
+Nach dieser neuen Beweisführung zweifelte man nicht länger an Herrn Savignys
+Unschuld und erlaubte ihm nach seinem Hafen zurückzukehren. — Allein seine
+Widerwärtigkeiten waren damit noch nicht zu Ende. Die Engländer übersetzten den
+Aufsatz aus dem Journal des Debats, und er kam zufällig mit dem Zeitungsblatt
+worin er stand, nach dem Senegal. In dieser Uebersetzung, die auf mancherlei Art
+verbrämt war, befanden sich so derbe Aeußerungen, daß sie freilich dem
+Gouverneur und Herrn N..... einem der Offiziere der Fregatte gar sehr misfallen
+mußten. Sie sahen wohl ein, daß hier nichts zu thun übrig blieb, als den Bericht
+zu widerlegen und wo möglich zu beweisen, daß er in mehrern Punkten ganz falsch
+sey. Man verfaßte also zu Saint-Louis eine Art von Gegenbericht, welchen Herr
+Corréard aufgefordert wurde zu unterzeichnen; allein er weigerte sich standhaft
+es zu thun, und selbst die Vorstellungen seines Freundes Kummer vermochten ihn
+nicht, einen ganz lügenhaften Aufsatz mit seines Namens Unterschrift zu
+beglaubigen. Da man nun wohl sah, daß nichts von ihm zu erlangen war, entschloß
+man sich endlich ihm die Rückkehr nach Europa nicht länger zu verweigern.
+
+Dieser ganz falsche Gegenbericht ward an den Marineminister eingesandt. Gleich
+nach seiner Ankunft in Rochefort erzählte Corréard Herrn Savigny alles was
+vorgefallen war, und stellte ihm darüber einen Beglaubigungsschein aus. Herr
+Savigny erhielt auch noch zwei andere von zweien seiner Unglücksgefährten, die
+sich in Frankreich befanden.
+
+Darauf kam er mit dem Gesuch ein, sich nach Paris verfügen zu dürfen, um den
+Minister zu überzeugen, daß man ihn zu hintergehen suche. Schon waren zwei
+Monate verstrichen und er hatte noch keinen Bescheid. Unterdeß reisete Herr
+Corréard nach der Hauptstadt. Herr Savigny gab ihm einen Brief an einen Beamten
+des Ministeriums mit, und erhielt endlich ein Schreiben aus Paris, in welchem
+man ihm erklärte, daß er nicht allein mit seinem Gesuch abgewiesen sey, sondern
+auch auf keine Beförderung rechnen dürfe, so lange der gegenwärtige Minister auf
+seinem Posten bliebe. Nun forderte Herr Savigny seinen Abschied, zum größten
+Bedauern seiner Vorgesetzten, die ihm schriftlich das ehrenvollste Zeugniß
+gaben, welches er so sehr verdiente. Auch Herrn Corréard verfolgte ein
+feindseliges Schicksal seit seiner Abreise von Rochefort bis zu dem Augenblick,
+wo er wieder mit seinem Unglücksgefährten zusammen traf und sie beide
+gemeinschaftlich an der Beschreibung des Schiffbruchs arbeiteten.
+
+Am 4ten Februar 1817 entschloß er sich nach Paris zu reisen. Da er aber nur
+wenig Barschaft hatte mußte er zu Fuße wandern. Die zwei ersten Tage ging es
+leidlich, allein als am dritten ihn sein Fieber ergriff, kehrte er drei Lieues
+von Poitiers in ein Dorf ein und ging zu dem Maire, um sich ein
+Einquartierungsbillet auszubitten. Man wies ihn an den Herrn Marquis von ......
+Obersten der Nationalgarde. Dieser nahm ihn sehr unfreundlich auf und schlug ihm
+seine Bitte rund ab. So mußte er denn weiter wandern und erreichte Poitiers erst
+am folgenden Tage. Hier fand er einen menschenfreundlichern Maire, der ihm
+sogleich ein Einquartierungsbillet bei Herrn Maury ausfertigen ließ in dessen
+Hause er so sorgfältig und mit so glücklichem Erfolge verpflegt wurde, daß er
+schon am dritten Tage sich wieder auf den Weg machen konnte.
+
+Gleich nach seiner Ankunft in Paris verfügte er sich zu dem englischen
+Gesandten, um sich nach seinen Wohlthätern, dem Major Peddy, dem Capitain
+Camphell und den andern englischen Offizieren zu erkundigen, die sich in
+Saint-Louis seiner so menschenfreundlich angenommen hatten. Dann ging er in das
+Seewesenamt und hielt um eine Anstellung in der Hauptstadt an, allein alle seine
+Vorstellungen waren vergeblich, und selbst das Versprechen, ihn vielleicht in
+den Colonien, namentlich in Cayenne, anzustellen, blieb in der Folge unerfüllt.
+— Auch den Orden der Ehrenlegion erhielt er nicht, wiewohl der Staatsrath Baron
+von sich deswegen eifrig für ihn verwendete. Endlich nach eingetretener
+Veränderung im Ministerium bleibt ihm nur noch das feste Vertrauen auf den
+gegenwärtigen Minister des Seewesens, Herrn Grafen Molé der ihm in den
+huldreichsten Ausdrücken das Versprechen gegeben, daß er gewiß die nächste
+Gelegenheit ergreifen würde ihn zu befördern.
+
+Zum Schlusse erlauben wir uns noch einige Bemerkungen über die französischen
+Besitzungen an der afrikanischen Küste, um die Vortheile zu zeigen, welche man
+aus denselben ziehen könnte.
+
+Der Theil der Küste von Cap-Blanc bis zu dem Arme des Senegals, den man
+gewöhnlich Marigot des Maringouins nennt, ist dermaßen unfruchtbar, daß er sich
+durchaus nicht anbauen läßt; aber von diesem Marigot bis zu der Mündung des
+Gambia, das heißt auf einer Strecke von 100 Lieues Länge und über 200 Tiefe,
+eröfnet sich ein großes Land, das unter dem Namen Senegambien^[^0458]^ bekannt ist. Hier
+ist der Boden fast durchgängig gut, und alle Pflanzer, die aus den Antillen hier
+her kommen, versichern einstimmig, daß er sich vortrefflich zu dem Anbau der
+Colonialerzeugnisse hergeben würde. Die Hauptströme in diesem weitläufigen Lande
+sind der Senegal^[^0456]^ und der Gambia^[^0455]^, jener im Norden, dieser im Süden. Der Fluß
+Faleme^[^0457]^ durchschneidet es in Westen Einige kleinere, die in verschiedenen
+Richtungen fließen, bewässern vorzüglich den gebirgigen Theil, der unter dem
+Namen Oberland, oder das Land Galam, bekannt ist. Alle diese kleinen Gewässer
+ergießen sich in die beiden Hauptströme. Das ganze Land ist ungemein bevölkert
+und die Einwohner sind friedliebend und gastfreundlich. Ueberall stößt man auf
+große sehr volkreiche Dörfer. —
+
+Leider haben wir hier nur noch zwei Niederlassungen, nämlich Saint-Louis und die
+Insel Goree. Alle andern hat man aufgegeben, entweder weil die Engländer oder
+Franzosen, denen sie abwechselnd gehörten, den Handel ausschließend nach den
+beiden Factoreien hinziehen wollten, die noch bestehen, oder weil die
+Eingebornen für ihre Waaren und Sklaven nirgends einen so vortheilhaften Absatz
+fanden als hier. So viel bleibt gewiß, daß mit diesen eingegangenen Factoreien
+der ansehnliche Handel welchen Frankreich vor der Revolution auf diesem
+Küstenlande trieb, sich um den vierten Theil vermindert hat.
+
+Die Stadt Saint-Louis, der Sitz der Oberstatthalterschaft liegt 18° 48´ 15" Länge
+und 16° 4` 10" Breite. Sie erhebt sich auf einer kleinen Insel im Senegal, zwei
+Lieues von dem neuen Sanddamm, der durch das Austreten des Stromes im Jahre 1812
+entstanden ist. In militärischer Hinsicht ist ihre Lage so vortheilhaft, daß
+wenn die Kunst der Natur zu Hülfe käme, sie vielleicht zu einer unbezwinglichen
+Festung werden könnte, aber so wie sie jetzt ist, kann man sie nur als einen
+offnen Platz betrachten, zu dessen Einnahme höchstens 400 entschlossene und gut
+angeführte Soldaten erforderlich wären. An der Mündung des Stromes befindet sich
+eine Sand- und Klippenerhöhung, die ein starkes Bollwerk abgiebt, und leicht
+unübersteiglich werden könnte, wenn man sie nur etwas befestigte und gut
+besetzte; allein die Küste an der Spitze der Barbarei, welche den Strom von dem
+Meere trennt, ist zugänglich, so daß es leicht wäre, daselbst, vermittelst
+platter Fahrzeuge, Mannschaften und Geschütz auszusetzen. Nach geschehener
+Landung ließe sich der Platz von der Nordseite angreifen wo sich durchaus kein
+festes Werk befindet, und dergestallt müßte er sich nach der ersten Aufforderung
+ergeben. Nichts destoweniger hielten ihn Manche bisher für uneinnehmbar weil es
+ihnen unmöglich schien, auf der Küste der Barbarei eine Landung zu
+bewerkstelligen. Da wir aber vom Gegentheil überzeugt sind, indem es den
+Engländern bei der letzten Einnahme dieses Platzes gelungen ist, hier Mannschaft
+auszusetzen, so wagen wir es, die Regierung auf die Lage von Saint-Louis
+aufmerksam zu machen, denn sicher könnte es unbezwinglich werden, wenn man auf
+verschiedenen Punkten einige neue Festungswerke anlegte.
+
+Uebrigens hat diese Stadt nichts sehr merkwürdiges aufzuweisen. Die Straßen sind
+grade und ziemlich breit, die Häuser leidlich gebaut und geräumig. Der Boden
+umher besteht aus einem brennenden Sande, welcher nur wenig Pflanzen erzeugt.
+Man zählt höchstens acht bis zehn kleine Gärten von zwei bis vier Quadrataren;
+sie sind ziemlich gut bestellt, und seit einigen Jahren hat man Pomeranzen und
+Zitronenbäume darin gezogen, die so gut fortgekommen sind daß sie für diesen
+Culturzweig zu den schönsten Hoffnungen berechtigen. Herr Corréard hat einen
+Feigenbaum und einen europäischen Weinstock gesehen, die herrlich und mit vielen
+Früchten bedeckt waren. Seitdem die Colonie wieder den Franzosen angehört, hat
+man mehrere Arten Obstbäume gepflanzt die vortreflich fortgekommen sind. In der
+Stadt selbst stehen hin und her sehr schöne Palmen und andere inländische Bäume.
+
+Der Waffenplatz, der ziemlich schön ist, liegt dem Schlosse, dem Fort und der
+Caserne gegenüber; auf der Westseite befindet sich eine Batterie von 10 bis 12
+Vierundzwanzigpfündern und 2 Mörsern, die man als die vorzüglichste Schutzwehr
+der Insel betrachten kann. Im Westen liegt der Hafen, wo die Schiffe ganz sicher
+sind. Nach Aussage des Maire, zählt die Stadt ohngefähr 10,000 Einwohner. Die
+meisten bekennen sich zur mahomedanischen, die andern aber zur katholischen
+Religion, alle leben übrigens in vollkommener Eintracht. Kein Zwist herscht hier
+wegen religiöser Meinungen; jeder betet Gott nach seiner Weise an. Die Männer,
+welche den mahomedanischen Glauben abgeschworen haben, entsagen darum nicht der
+Vielweiberey. Vertrüge sich diese mit den Lehrsätzen der christlichen Religion,
+und man gestattete sie den Negern, so würden sich fast alle zu unserm Glauben
+bekennen, denn der Pomp unsrer Kirchengebräuche macht ohnehin schon einen tiefen
+Eindruck auf sie.
+
+Die Insel Saint-Louis, obgleich von geringem Umfange, kann doch den ganzen Fluß
+beherrschen, denn sie erhebt sich an der Spitze eines Archipels von ziemlich
+ansehnlichen und fruchtbaren Inseln. Ihre Länge von Norden nach Süden beträgt
+2,500 Metres, die Breite im Norden von Osten nach Westen genommen, 370 Metres,
+im Süden nach derselben Richtung, 170 Metres und wo sie am größten ist, 280. Die
+Oberfläche der Insel erhebt sich nur 30 Centimetres über den Strom; in der Mitte
+ist sie etwas höher, so daß das Wasser besser abfließen kann. Die Insel
+Saint-Louis theilt den Fluß in zwei Arme, die sich da wieder vereinigen wo die
+Insel aufhört; der größte auf der Ostseite ist 1000 Metres und der andere im
+Westen 600 breit. Die Strömungen sind sehr reißend und führen viel Sand mit
+sich, den das Meer wieder gegen die Küste zurückwirft; daher an der Mündung sich
+eine Sandbank gebildet hat, durch welche aber, Dank den Strömungen, ein
+Fahrwasser geht, das 200 Metres breit und 5 bis 6 tief ist. Sehr oft beträgt
+beides nicht so viel, und folglich können auch nur solche Fahrzeuge durch, die
+höchstens 4 Metres Wasserzug haben geht dieser etwas darüber so kommt es zu
+statten, insofern das hin- und herwanken des Schiffes von vorn nach hinten
+ziemlich beträchtlich ist, weil dieses Fahrwasser sehr kurze aber um so stärkere
+Wellen bildet, die bei stürmischem Wetter fürchterlich brechen und selbst die
+unerschrockensten Seeleute mit Angst erfüllen.
+
+Der westliche Arm des Flusses wird von dem Meere durch eine Landspitze getrennt,
+welche man Spitze der Barbarei nennt. Sie ist höchstens 150 Metres breit und
+besteht nur aus Sand; ein Wunder also, daß sie die Gewalt des Stromes aushält,
+der sie beständig zu zerstören droht. Auch das Meer bricht mit solchem Ungestüm
+daran, daß es sie oft ganz bedeckt und den Arm des Stromes überwältigend bis an
+die Ufer der Insel Saint-Louis dringt. Fast dem Schlosse gegenüber, auf der
+Spitze der Barbarei, sieht man die kleine Schanze, Fort de Guétandar, die mit
+höchstens 6 Kanonen besetzt ist. Der Boden ist eigentlich weiter nichts als eine
+Sanderhöhung, die vom Winde zusammengetrieben noch täglich zunimmt, und bereits
+von einer Menge Negerhütten umfaßt wird, die ein ziemlich großes Dorf bilden.
+Diese Hütten halten den Sand so gut zusammen, daß er nicht leicht einstürzt. Die
+Einwohner dieses Dorfes sind überaus abergläubisch, wie man aus folgendem Zuge
+sehen wird.
+
+Im Monat September besuchten die Herren Kummer und Corréard die Küste der
+Barbarei und das Dorf Gustandar jenseits des Stromes. Auf der Spitze angelangt,
+schlugen sie sich nördlich. Indem sie längs dem Ufer hingingen, sahen sie eine
+Schildkröte von ohngefähr einem Metre im Durchmesser; sie lag auf dem Rücken,
+bedeckt von einer Menge Turlurus^[^0459]^. Herr Corréard blieb stehen, schlug mit
+seinem Stock in den Haufen, und sah wie diese Thiere die Wundgeschlagenen
+sogleich verzehrten. Unterdeß war Herr Kummer südwärts gegangen, um sich die
+Begräbnißplätze der Neger zu besehen. Herr Corréard stieß wieder zu ihm und nun
+betrachteten sie die Begräbnisse. Es sind kleine Grabmäler von Stroh oder
+Holzarbeit, auch wohl von Knochen künstlich zusammengesetzt. Alle diese
+Denkmäler verdanken ihr Daseyn nicht sowohl der Eitelkeit als der Verehrung für
+die Verstorbenen, daher auch die Neger streng darauf halten, daß kein Fremdling
+denselben zu nahe komme. Herr Kummer, der sich wieder seinem Gefährten getrennt
+hatte, beobachtete ganz ruhig diese einfachen Gräber, als plötzlich ein Neger
+mit einem Säbel in der Hand, sich geduckt zu ihm hinschlich, vielleicht um ihn
+zu erstechen. In dieser Gefahr suchte er ungesäumt Herrn Corréard auf, und da
+beide keine Waffen bei sich führten hielten sie für rathsam sich geschwind in
+einen Kahn zu werfen um das jenseitige Ufer zu erreichen. Kaum hier angelangt
+sahen sie wirklich auf der andern Seite des Stromes einen Haufen Schwarze die
+auf das Geschrei ihres Landsmanns herbeigeeilt waren und sie beide
+wahrscheinlich umgebracht hätten, wären sie nicht in Zeiten auf ihre Flucht
+bedacht gewesen
+
+Das linke Ufer des Flusses, welches man das große Land (Grande Terre) nennt,
+prangt mit einem immerwährenden Grün und ist ungemein fruchtbar. Gegenüber im
+Osten von Saint-Louis befindet sich die Insel Sor. Sie hat 4 bis 5 Lieues in
+Umfang, ist länglich und fast viereckig. Auf derselben sieht man zwei große
+Ebenen, wo man füglich Wohnungen aufschlagen könnte, so wie denn ein zwei Metres
+hohes Gras womit sie bedeckt sind, zu vermuthen giebt, daß man diese Insel nicht
+ohne Erfolg beurbaren dürfte. Die Baumwollenstaude und Indigopflanze wachsen
+hier wild. Hin und her ist der Boden tief und feucht, so daß vielleicht
+Zuckerrohr darauf fortkommen würde. Uebrigens könnte man auch mit kleinen Dämmen
+von der Höhe eines Metre den Ueberschwemmungen vorbeugen, die in der Regenzeit
+eintreten. Noch andere Erzeugnisse dieser Insel sind Baobabs^[^0460]^, Mangle^[^0461]^
+und Gummibäume.
+
+Weiter nach Süden liegen die Inseln Babaguee und Sofal. Erstere hat bereits die
+Pflanzer sehr reichlich belohnt, die dem unmenschlichen Sklavenhandel entsagend,
+sich lieber mit dem Ackerbau beschäftigen. Mehrere haben Baumwollenpflanzungen
+angelegt, die sie Longans nennen. Herr Artique hat sich bis jetzt darin am
+meisten hervorgethan. Seine kleine Pflanzung brachte ihm im Jahre 1814, 2400
+Franken ein. Dies veranlaßte andere Bewohner der Insel Saint-Louis, ebenfalls
+dergleichen anzulegen, die jetzt schon ziemlich zahlreich sind und eine
+reichliche Ausbeute an Colonialprodukten versprechen. Der Boden der Insel
+Babaguee ist höher als der der andern Inseln in ihrer Nähe. An der südlichen
+Spitze derselben, fast der neuen Sandbank gegenüber, zeigen sich eine Menge
+Negerhütten, ein Wachthaus nebst einer Warte und zwei oder drei Landhäuser.
+
+Die Insel Safal, Herrn Picard angehörig, ist nicht weniger fruchtbar als jene.
+Allein auf keiner giebt es Trinkwasser, das man sich doch leicht verschaffen
+könnte, wenn man kleine Brunnen von ohngefähr 2 Metres Tiefe anlegen wollte.
+
+Baumwolle und Indigo wachsen überall von selbst Was fehlt also diesen Ländereien
+um das herzugeben, was andere Niederlassungen erzeugen? Nur einige Männer, die
+im Stande wären die Eingebornen mit dem bekannt zu machen, nur
+Ackergeräthschaften und Sämereien. Bald würden sich hier zahlreiche Pflanzungen
+erheben, so wie die auf den Antillen. Die Neger viel Vorliebe für die Franzosen
+und es dürfte nicht schwer halten, ihnen Geschmack für den Ackerbau
+beizubringen. Ein kleiner Vorfall, den Herr Corréard erlaubte, mag zum Beweise
+dienen, wie sehr sie den Franzosen gewogen sind.
+
+Ihm Monat November lud ihn Herr Valentin zu einer Jagd ein, die er mit einigen
+Freunden auf dem Reviere des Dorfes Gandiolle halten wollte. Da sie einige Tage
+dazu bestimmt hatten, so baten sie sich von dem Majsor Peddy ein Zelt aus und
+schlugen es an der Bucht auf, welche der Senegal jetzt bildet, seitdem seine
+ehemalige Mündung ganz verschwunden ist und sich drei oder vier Lieues von
+derselben eine neue gebildet hat. Der Lagerplatz war eine kleine Stunde von dem
+Dorfe Gandiolle entfernt. Heer Corréard dehnte seine Streifereien etwas weiter
+aus als die andern Herren, denn er war Willens von der Küste und den Inseln des
+Senegals einen Plan aufzunehmen. Bald befand er sich bei Gandiolle, wo er einen
+ungeheuern Baobab sah, dessen Umfang und außerordentliche Weiße er lange
+bewunderte. Dann ging er durch das Dorf, nahete sich dem Baume noch mehr und
+schoß zweimal unter einen Schwarm von Vögeln, der sich darauf gesetzt hatte. Er
+maß nun den Baum und fand, daß er 28 Metres im Umfang hatte Unterdeß waren die
+Neger in zahlreichen Haufen aus ihren Hütten gekommen. Sie traten alle zu Herrn
+Corréard vermuthlich in der Hoffnung von ihm Pulver, Blei oder Tabak zu
+erhalten. Während er seine Flinte lud, betrachtete er aufmerksam einen Greis,
+dessen Gesicht viel Gutmüthigkeit verrieth. Er hatte einen weißen Bart und
+weißes Haar und war von colossalischer Größe. Sein Name hieß Sambadurand. Als er
+bemerkte, daß Heer Corréard ihn ins Auge faßte, trat er zu ihm und fragte, ob er
+ein Engländer sey? Nein, antwortete dieser, ich bin ein Franzose. Wie, mein
+Freund, Du bist ein Franzose! nun das ist mir lieb. — Ja, guter Alter, ich bin
+es.... .. Darauf schien der Greis sich ein gewisses Ansehen zu geben, um noch
+einmal den Namen Franzose auszusprechen, und fuhr dann fort: Deine Nation ist
+die mächtigste in Europa, so wohl durch ihren Muth, als durch ihre hohen
+Geistesgaben; hab ich Recht? ... — Ja. — Ihr Franzosen seyd nicht wie die andern
+Weißen, die ich so häufig gesehen. Ihr seyd ganz Feuer und doch eben so
+gutmüthig als wie Schwarzen. Du, z. B. bist das ganze Ebenbild von Durand, eben
+so lebhaft, eben so groß; und so mußt Du wohl auch eben so gut seyn. Bist Du mit
+ihm verwandt? — Nein, guter Alter, das nicht, aber ich habe viel von ihm gehört.
+— Ach, Du kennst ihn nicht wie ich. Vor 30 Jahren kam er hieher mit seinem
+Freunde Rubault, der nach Galam reisete. Er überhäufte uns alle mit Geschenken.
+Ich habe noch bis auf diese Stunde einen kleinen Dolch, den er mir gab, und den
+mein Sohn, nach meinem Tode treulich aufbewahren soll. Siehst Du, wir erinnern
+uns immer der Weißen, die uns Gutes erwiesen und besonders der Franzosen, die
+wir sehr lieben. .... Oh antwortete Herr Corréard, es thut mir leid, daß ich
+nichts habe, was Dir anstehen könnte und von Dauer wäre ich gäbe es Dir gern,
+damit Du auch mich so wie den Menschenfreund Durand in Andenken behieltest. Wäre
+ihm sein Vorhaben gelungen, so hätte er dein Land beglückt und dem meinigen Ruhm
+erworben. Nimm jetzt mein Pulver und Blei, wenn Dir damit gedient ist. Ach, guter
+Franzose; ich nähme es wohl, denn ich weiß, daß Du bei dir zu Lande so viel hast
+wie Du nur willst^[^0462]^; aber in diesem Augenblick brächte ich Dich damit um das
+Vergnügen der Jagd, .... Nein nein; nimm Alles, sag' ich Dir....... weißt Du
+was, Toubabe, laß uns theilen; so ists am besten. Und darauf theilten sie. Der
+Neger führte Herrn Corréard in seine Hütte, wo er ihm Erfrischungen vorsetzte.
+Komm, sagte er, komm Toubabe; meine Weiber sollen Dir Milch und Hirsebrei geben
+und Du rauchst ein Pfeifchen mit mir. Allein Herr Corréard nahm Abschied und
+ging weiter, um seine Jagd fortzusetzen Auf einmal vernahm er ein Geschrei von
+Negern; sie verfolgten einen jungen Löwen, der aus dem Dorfe Mouit kam und auf
+Gandiolle zullef; er hatte zwar keinen Schaden angerichtet, aber es war ihnen um
+seine Haut zu thun, die sie gern verkauft hätten. Zum Mittagsmahle fanden sich
+alle Jäger wieder unter ihr Zelt ein. Auf einmal erblickten sie einen jungen
+Neger von höchstens 12 Jahren, er sah so sanft und freundlich aus, daß sie weit
+entfernt waren in ihm den Muth und die Stärke zu suchen, die er eben an den Tag
+gelegt hatte. Er hielt in seinen Händen eine lebendige Eidechse von wenigstens
+einem Metre 80 Centimetres Länge. Herr Corréard bat einen Sklaven des Herrn
+Valentin ihn zu fragenwie es ihm möglich gewesen wäre, dies Thier zu fangen und
+so zusammenzuschnüren. Das Kind antwortete auf yoloffisch: „Ich sah die Eidechse
+wie sie aus einer Hecke hervorkam; sogleich faßte ich sie beim Schwanze und den
+Hinterpfoten, dann hob ich sie in die Höhe, packte sie mit der linken Hand am
+Hals, hielt sie mir so weit als möglich vom Leibe und trug sie nach Gandiolle,
+wo ich einen kleinen Freund traf, der ihr die Pfoten zusammenband und mir
+vorschlug, sie den Toubaben unter diesem Zelte zu bringen, denn, fügte er hinzu,
+es sind Franzosen. Da ich nun die sehr lieb habe, so wollte ich sie gern sehen
+und ihnen diese Eidechse anbieten.“ — Herr Corréard hielt dem Thiere seinen
+Flintenkolben hin; es biß tief ein, ließ aber wieder los. Allein indem es
+wüthend nach dem Laufe fuhr, biß es sich alle Zähne aus und verlor eine Menge
+Blut. Doch that es nichts, um sich von seinen Banden zu befreien.
+
+Die Umgebungen von Gandiolle scheinen sehr fruchtbar zu seyn. Man findet hier
+ein Gras von zwei Metres Höhe, wie auch Mais- und Hirsefelder. Ueberall trifft
+man große Lachen, welche die Inländer Marigots nennen. Vermittelst einiger
+kleinen Canäle ließen sie sich austrocknen und zu ergiebigen Feldern machen, auf
+welchen man vorzüglich Zuckerrohr erzeugen könnte, denn der Boden ist schlammig
+und mit sehr feinem Sande untermischt.
+
+Werfen wir nun noch einen Blick auf den Fels den man die Insel Goree nennt. An
+sich ist sie von keiner Bedeutung, aber ihre Lage giebt ihr einen hohen Werth.
+Sie liegt 19° 45´ Länge und 14° 40´ 10" Breite, eine halbe Lieue von Grande
+Terre, 36 von der Mündung des Senegal, und 80 von den Inseln des Cap-Verd. Ihr
+Hafen ist vortrefflich und wird daher auch zu jeder Zeit von einer Menge Schiffe
+besucht, die ihn außerordentlich lebhaft machen· Einwohner zählt man ohngefähr
+5,000, was mit ihrer Größe in keinem Verhältniß steht, denn sie ist höchstens
+900 Metres lang und 245 breit. Der Umfang beträgt nicht über 2000 Metres. Die
+Anfahrt wird sehr erschwert durch zahlreiche kleine Felsen, von denen sie auf
+allen Seiten umgeben ist, daher auch einige Reisende sie das kleine Gibraltar
+nennen, und gewiß würde sie wie dieses unbezwinglich werden, wenn die Kunst der
+Natur nur in etwas zu Hülfe käme. Der Admiral d'Estrees bemächtigte sich
+derselben zum erstenmal im Jahre 1677. Ein Fort und einige kleine sehr schlecht
+unterhaltene Batterieen, dienen ihr zur Schutzwehr. Eigentlich ist sie nur im
+Ostnordost zugänglich, wo sich eine ziemlich weite und tiefe Bucht befindet,
+welche die größten Schiffe aufnehmen kann. Zwei Lieues von Goree ist die Bucht
+Ben, die alle mögliche Bequemlichkeiten darbietet, um Schiffe zu kalfatern und
+auszubessern.
+
+Die Luft auf Goree ist Abends und Morgens kühl, aber am Tage herrscht eine
+unerträgliche Hitze, die von dem Zurückprallen der Sonnenstrahlen herrührt,
+welche senkrecht auf die umliegenden Basalte fallen. Dazu kommen noch einige
+andere Umstände; unter mehrern, der durch die allzuengen Häuser verhinderte
+Luftzug, die zahlreichen Einwohner, welche beständig die Gassen erfüllen und
+überhaupt mit dem Umfange der Stadt in keinem Verhältniß stehen. Selbst die
+Neger, die doch einen guten Theil Hitze vertragen können, finden sie hier höchst
+drückend und mögen lieber auf Saint-Louis wohnen.
+
+Wäre die Regierung einmal gesonnen, von Cap-Verd, bis zu dem Fluß Gambia eine
+mächtige Colonie auzulegen, so könnte die Insel Goree für alle Niederlassungen
+an der afrikanischen Küste, ein vortrefliches Bollwerk abgeben. An sich ist sie
+freilich zu klein um große Ansiedelungen zu gestatten, aber sie könnte zum
+Mittelpunkt werden für eine größere Colonie, die sich auf dem Cap-Verd
+ansiedelte, der ganz dazu geeignet scheinet und in jeder Rücksicht die größten
+Vortheile darbietet Männer, die sich darauf verstehen, behaupten, er könne ein
+zweites Vorgebirge der guten Hoffnung werden. Hier würden sich die Europäer
+durch einstweiligen Aufenthalt an die Landesluft gewöhnen, bis sie sich weiter
+ins Land wagten, entweder zwischen diesem Cap und dem Fluß Gambia oder auf den
+Inseln Todde, Reffo, Morphil, Bilbas und auch wohl bis in das Reich Galam.
+
+Die Lage und Gestalt des Cap-Verd sind von der Art, daß sich daselbst sehr
+leicht und mit geringem Aufwand ein vortrefflicher Hafen anlegen ließe, man
+könnte vielleicht auch den See oder Marigot Ben dazu benutzen, denn er ist nur
+etwas über 20 Metres vom Meere entfernt. Uebrigens könnte die Rhede des Cap-Verd
+schon wie sie jetzt ist, einen Hafen abgeben. Ein Arzt, der ihn mit
+Forschergeist bereiset hat, drückt sich darüber in einem Briefe an Herrn
+Corréard folgendermaßen aus:
+
+`Dieser Cap ist ganz anders als wir ihn uns dachten. Sein Flächenraum beträgt nur
+6 oder 8 Geviertlieues; die Bevölkerung ist sehr zahlreich und steht in keinem
+Verhältniß mit dem fruchtbringenden Theile dieser Halbinsel, der nur das
+Drittel der selben aus macht. Ein anders Drittel dient zur Weide für die Heerden
+der Neger, und das letzte ist zu voll Schlacken und felsiger, daß man sich
+Hoffnuung machen könnte, es in Ackerfeld umzuwandeln. Aber in militärischer
+Hinsicht verdient er die größte Aufmerksamkeit. Alles vereinigt sich, ihn
+unbezwinglich zu machen. Man könnte ihn sogar von dem Festlande trennen und
+Häfen darauf anlegen, wie denn die Natur schon von selbst welche darbietet.`
+
+Noch sprach er in diesem Briefe von den Vortheilen, welche die Gegend um
+Rufisque gewährt; wir übergehen sie aber hier, weil sie schon hinlänglich
+bekannt sind. Nur bemerken wir, daß dieser Ort nächst den Anhöhen des Cap-Rouge,
+Portudal, Joal und Cahone einer der vorzüglichsten Punkte ist, den man zu
+beachten hat, und nicht unbesetzt lassen darf. Cahone liegt an dem kleinen
+Flusse Salum, unfern vom Gambia. Es sind sämmtlich große Dörfer, um welche sich
+herrliche Wälder befinden und deren Felder zu den fruchtbarsten in Afrika
+gehören. Mehr über diese Gegenden findet man in den vortrefflichen Werken der
+Herren Durand und Geoffroy de Villeneuve, die sie bereiset und sehr genau
+beschrieben haben. Nur legen sie in landwirthschaftlicher Hinsicht dem Cap-Verd
+einen zu hohen Werth bei.
+
+Wir glauben die Vorzüge dieser weitläuftigen Länder hinlänglich angegeben zu
+haben, um die Regierung zu veranlassen, den Ackerbau daselbst auf alle Weise zu
+befördern. Wir überlassen es Andern, unsre Vorschläge zu beleuchten und zu
+untersuchen, in wiefern sie ausführbar seyn möchten. Auch liegt es nicht in
+unserm Plan, zu entscheiden, ob es Sache der Regierung oder einer Gesellschaft
+von Privatleuten seyn müsse, hier Colonieen zu gründen. Nur versichern wir noch
+einmal, daß Handel und Landwirthschaft in diesem weitläuftigen Lande
+außerordentlich gedeihen würden, aber wohlverstanden nicht mit Begünstigung des
+Sklavenhandels.
 :::
-
 
 :::: align-center
 ****
@@ -1917,7 +3224,7 @@ einer um den andern.
 
 [^0432]: [Nach der Zeit erfuhren wir, daß diese Verschwörung zuerst von einem piemontesischen Sergeanten angezettelt wurde, der seit zwei Tagen sich immer zu uns hielt, um desto besser unser Vertrauen zu gewinnen. Wir gaben ihm die Aufsicht über den Wein; nachts stahl er ihn, und theilte ihn unter einigen von seinen Vertrauten.]{.footnote}
 
-[^0433]: [Wir hatten alle unser Geld in einen gemeinschaftlichen Sack gethan, um Lebensmittel zu bezahlen, und Kamele zu Fortschaffung der Kranken zu miethen, wenn wir etwa an den Ufern der Wüste landeten. Es waren ungefähr 1500 Franken. Funfzehn retteten sich; es kamen also auf jeden 100 Franken; als wir gelandet waren, übernahmen der Commandant der Flöße, und ein Offizier vom Fußvolk die Vertheilung.]{.footnote}
+[^0433]: [Wir hatten alle unser Geld in einen gemeinschaftlichen Sack gethan, um Lebensmittel zu bezahlen, und Kamele zu Fortschaffung der Kranken zu miethen, wenn wir etwa an den Ufern der Wüste landeten. Es waren ungefähr 1500 Franken. Fünfzehn retteten sich; es kamen also auf jeden 100 Franken; als wir gelandet waren, übernahmen der Commandant der Flöße, und ein Offizier vom Fußvolk die Vertheilung.]{.footnote}
 
 [^0434]: [Einer der beiden Soldaten war eben der Sergeant dessen wir oben gedachten; er schob seine Kameraden vor, und hielt sich versteckt, im Fall sie in ihrem Vorhaben scheitern möchten.]{.footnote}
 
@@ -1932,3 +3239,47 @@ einer um den andern.
 [^0439]: [Dies Gerücht von Empörung auf der Schaluppe verbreitete sich in dem Augenblick, wo sie die Boote einholte, welche sich an der Spitze der Flöße in einer Linie aufgestellt hatten. Mehrere Leute der Schaluppe, unter andern einige Unteroffiziere riefen: Feuer auf diejenigen, welche die Flucht ergreifen. Schon waren die Gewehre geladen, aber es gelang dem Offizier die Ruhe wieder herzustellen. Auch versicherte man uns nach der Zeit, der Schiemann F. . habe wirklich auf den Commandanten der Fregatte angelegt. Das ist alles was uns über diese angebliche Meuterey zu Ohren gekommen.]{.footnote}
 
 [^0440]: [*Sainte-Croix*: vergleiche [Santa Cruz de Tenerife](https://de.wikipedia.org/wiki/Santa_Cruz_de_Tenerife)]{.footnote}
+
+[^0441]: [Piastre gourde, eine Art Silbermünze, ohngefähr so viel an Werth, wie die alten französischen Thaler, 9 auf die Mark.]{.footnote}
+
+[^0442]: [*Tombucton*: vergleiche [Timbuktu](https://de.wikipedia.org/wiki/Timbuktu)]{.footnote}
+
+[^0443]: [*Nigritien*: vergleiche [Nigritien](https://de.wikipedia.org/wiki/Nigritien)]{.footnote}
+
+[^0444]: [Die Rechtschaffenheit und Gerechtigkeitsliebe des Generals Blanchot waren unter den Bewohnern von Saint-Louis so allgemein anerkannt, daß bald nach seinem Tode die Handelsleute und Regierungsbeamten zusammen schlossen um ihm an der Stelle, wo seine Asche ruht, ein Denkmal zu errichten. Eben als man noch damit umging, bemächtigten sich die Engländer der Insel. Alle Offiziere dieser Nation erboten sich zu den Kosten, welche dieses Denkmal erforderte, beizutragen. Die Inschrift auf demselben fängt mit diesen Worten an: Hier ruhen die Gebeine des braven und rechtschaffenen Generals Blanchot. Folgender Zug von seiner Gerechtigkeitsliebe wird gewiß bei jedem Mann von Gefühl tiefe Rührung erzeugen. Einige Zeit bevor Senegal in englische Hände fiel, war Saint-Louis so streng eingeschlossen, daß alle Verbindung mit Frankreich aufhörte und fast gänzlicher Mangel an Lebensmitteln eintrat. Man mußte zu gewaltsamen Mitteln schreiten. Der vorsichtige General hielt einen Rath zu welchem die angesehnsten Bürger und Regierungsbeamten berufen wurden. Man beschloß nicht abzuwarten bis die Lebensmittel ganz aufgegangen wären, sondern sich vielmehr täglich auf eine viertel Ration Brod und 2 Unzen Hirse oder Reis zu beschränken, und zwar Jeder, Weiße und Schwarze, weß Standes oder Ranges sie auch seyn mochten. Zu dem Ende wurden alle Lebensmittel in die öffentlichen Vorrathshäuser geschaft. Einige Tage darauf versammelte der Gouverneur die Behörden zu einem Mittagsmale bei sich. Jeder brachte selbst seine Ration Brod und Hirse. Indeß legte man ein ganzes Brod auf den Tisch des Generals. Sobald dieser es bemerkte, fragte er den Bedienten wer denn den Magazinwärter ermächtigt hätte eine solche Ausnahme mit ihm zu machen, und als hierauf sämmtliche Gäste erklärten, man wäre nie der Meinung gewesen, ihn einzuschränken und er müsse sich diese Verfügung schon gefallen lassen, so sagte er zu einem seiner Adjudanten: Sie gehen sogleich und lassen den Magazinwärter setzen, der meinen Befehlen nicht Folge geleistet. Dann wendete er sich mit diesen Worten an die Gäste Und Sie meine Herren, wissen Sie, daß es mir nicht gegeben ist, die unglücklichen Sklaven um ihren Lebensunterhalt zu bringen, während ich an meiner Tafel Ueberfluß hätte. Ein französischer General muß eben so gut Entbehrungen zu ertragen verstehen, als die braven Soldaten, die er anführt. Während der langwierigen Hungersnoth die 4 Monate dauerte, wollte der General nie eine stärkere Ration als der geringste Sklave. Sein Beispiel machte, daß niemand murrte und die Colonie gerettet wurde. Mittlerweile man sich in der größten Noth befand, rückte die Erndte heran und steuerte endlich dem Elend Saint-Louis; zugleich kamen Schiffe aus Frankreich mit denen sich sogar Ueberfluß einstellte. Aber einige Zeit darauf belagerten es die Engländer wieder und es mußte sich ergeben. Uebrigens bemerken wir nur noch, daß Blanchot ob er gleich sehr lange Gouverneur gewesen war, doch kein Vermögen hinterließ. Ein Beweis von seiner Uneigennützigkeit.]{.footnote}
+
+[^0445]: [*Goelette*: vergleiche [Schoner](https://de.wikipedia.org/wiki/Schoner)]{.footnote}
+
+[^0446]: [Beispiele von solchen verlassenen Schiffbrüchigen sind in der Seegeschichte nichts unerhörtes. Im Jahre 1760 strandete der St. Jean Baptiste bei der Isle aux Sables; 320 von der Mannschaft kamen davon und retteten sich mehrentheils auf Madagascar, allein die übrigen 87 ließ man im Stich, wiewohl man es nicht an Versprechungen hatte fehlen lassen, sie unverzüglich abzuholen. Achtzig Neger und Negerinnen kamen jämmerlich um, einige vor Hunger und Elend, andere indem sie einen Versuch machten sich auf Flößen zu retten. Sieben Negerinnen und ein Kind blieben 15 Jahre auf der Isle aux Sables und verdankten endlich (1776) ihre Rettung dem Herrn von Tromelin, Commandanten der Corvette la Dauphine. Das Boot le Favori, Capitän Moreau, entdeckte am 20ten März 1757 die Insel Adu; es schickte einen Kahn hin mit 8 Mann Besatzung und unter dem Befehle des Herrn Riviere, eines Seeoffiziers; aber Moreau ließ sie im Stich, weil die Strömungen ihn nach der Insel hintrieben und steuerte nach Isle de France, wo er aber bei der Regierung nicht den geringsten Schritt that um den Verlassenen Hülfe zu schaffen. Dem braven Riviere und seinen Matrosen glückte es, sich auf einer Flöße und seinem Kahne nach der Küste von Malabar zu retten sie landeten bei Cranganor unweit Calicut. Es läßt sich allenfalls erklären, wie man im ersten Augenblick der nahen Gefahr alle Fassung verlieren und demnach seine Gefährten auf einem Schiffe im Stiche lassen kann; aber ihnen nicht zu Hülfe eilen, so ganz keine Anstalt dazu machen, wenn man die Gefahr überstanden hat, das läßt sich nicht so leicht begreifen.]{.footnote}
+
+[^0447]: [Gewisse Leute, die wir nennen könnten, zerschnitten die große Flagge und machten daraus Servietten, Tisch- und Betttücher u. s. w.]{.footnote}
+
+[^0448]: [Sie speiseten fast alle Tage bei den englischen Offizieren, aber Abends mußten sie sich wieder in das schreckliche Lazareth verfügen, wo so viel Leidensbrüder mit ihnen seufzeten. Wenn ja einer von ihnen sich zur Mahlzeit nicht einstellte, so schickten die gutmüthigen Wirthe sogleich ins Lazareth und erkundigten sich nach der Ursache seines Außenbleibens.]{.footnote}
+
+[^0449]: [Drei Unglückliche von der Flöße starben sehr bald; diejenigen, die nach der Wanderung durch die Wüste krank waren um sich nach Daccard zu begeben, blieben mehrentheils in diesem Lazaret und verschieden alle einer nach dem andern.]{.footnote}
+
+[^0450]: [Der Major Peddy hatte auf, den Antillen und in Spanien gegen die Franzosen gedient. Die Tapferkeit unsrer Soldaten und die gute Aufnahme, die er zur Zeit unsrer Unfälle, in Frankreich gefunden, hatten ihm für unser Landsleute eine ungemeine Achtung eingeflößt.]{.footnote}
+
+[^0451]: [*Daccard*: vergleiche [Dakar](https://de.wikipedia.org/wiki/Dakar)]{.footnote}
+
+[^0452]: [*Cap-Verd*: vergleiche [Cap-Vert-Halbinsel](https://de.wikipedia.org/wiki/Cap-Vert-Halbinsel)]{.footnote}
+
+[^0453]: [Die Uebergabe der Niederlassung fand erst 6 Monat nach unserm Schiffbruch statt, und zwar den 25ten Januar 1817.]{.footnote}
+
+[^0454]: [*Goree*: vergleiche [Gorée](https://de.wikipedia.org/wiki/Gor%C3%A9e)]{.footnote}
+
+[^0455]: [*Gambia*: vergleiche [Gambia (Fluss)](https://de.wikipedia.org/wiki/Gambia_(Fluss))]{.footnote}
+
+[^0456]: [*Senegal*: vergleiche [Senegal (Fluss)](https://de.wikipedia.org/wiki/Senegal_(Fluss))]{.footnote}
+
+[^0457]: [*Faleme*: vergleiche [Falémé](https://de.wikipedia.org/wiki/Fal%C3%A9m%C3%A9)]{.footnote}
+
+[^0458]: [*Senegambien*: vergleiche [Senegambia (Region)](https://de.wikipedia.org/wiki/Senegambia_(Region))]{.footnote}
+
+[^0459]: [Eine Art kleiner Krabben.]{.footnote}
+
+[^0460]: [*Baobab*: vergleiche [Afrikanischer Affenbrotbaum](https://de.wikipedia.org/wiki/Afrikanischer_Affenbrotbaum)]{.footnote}
+
+[^0461]: [*Mangle*: vergleiche [Rote Mangrove](https://de.wikipedia.org/wiki/Rote_Mangrove)]{.footnote}
+
+[^0462]: [Die Schwarzen glauben, daß alle Weißen in ihrer Heimath sehr reich sind.]{.footnote}

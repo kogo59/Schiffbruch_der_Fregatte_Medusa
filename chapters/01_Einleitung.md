@@ -11,9 +11,9 @@ bis zur Mündung des Flusses Gambia, standen abwechselnd bald unter französisch
  deren Vorfahren schon im 14ten Jahrhundert, gleich nach Entdeckung dieses Landes,
  sich hier angesiedelt hatten.
 
-Die Engländer bemächtigten sich im Jahr 1538 der Insel Saint-Louis, des Sitzes der
+Die Engländer bemächtigten sich im Jahr 1758 der Insel Saint-Louis, des Sitzes der
 Oberstatthalterschaft aller unsrer Besitzungen auf diesem Theile der Küste, 1779,
-also zwanzig Jahre später kam sie wieder an uns um diese Zeit wurden uns unsre
+also zwanzig Jahre später kam sie wieder an uns. Um diese Zeit wurden uns unsre
 Besitzungen durch den am 3ten September 1788 zwischen Frankreich und England
 abgeschlossenen Friedensvertrag von neuem zugesichert. 1808 fielen sie abermals
 in die Hände der Engländer nicht sowohl durch Gewalt der Waffen, als durch die

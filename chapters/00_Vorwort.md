@@ -22,7 +22,7 @@ mehrern Seeleuten, die sich an Bord befanden, Erkundigung eingezogen, und wo ihr
 Aussagen nicht ganz gleichlautend waren, hielten wir uns an die Thatsachen, welche
 die meisten Zeugen für sich hatten. Zuweilen werden wir uns genöthigt sehen,
 grausame Wahrheiten ans Licht zu bringen, aber diese können nur die treffen deren
-Ungeschick oder Kleinmüthigkeit alle ene Schrecknisse herbeiführten. Wir dürfen
+Ungeschick oder Kleinmüthigkeit alle jene Schrecknisse herbeiführten. Wir dürfen
 zuletzt noch mit Zuversicht sagen, daß unsre zahlreich gesammelten Beobachtungen
 uns in Stand setzen, alles, wie bei einem so wichtigen Werke mit Recht zu erwarten
 steht, vollkommen treu und richtig darzustellen.
