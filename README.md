@@ -25,4 +25,7 @@ This work is in the public domain in the United States because it was published
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
- Scan at [Google books](https://books.google.de/books?id=XItCAAAAcAAJ&dq=inauthor%3A%22Jean%20Baptiste%20Henri%20Savigny%22&hl=de&pg=PP9#v=onepage&q&f=false)
+Scan at [Google books](https://books.google.de/books?id=XItCAAAAcAAJ&dq=inauthor%3A%22Jean%20Baptiste%20Henri%20Savigny%22&hl=de&pg=PP9#v=onepage&q&f=false)
+
+# ePUB
+Schiffbruch der Fregatte Medusa auf ihrer Fahrt nach dem Senegal. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=338940)
