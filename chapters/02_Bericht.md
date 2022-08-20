@@ -40,7 +40,7 @@ die von dort her blies; nun konnten wir den Vordertheil nach der See wenden, die
 Wolken zerstreuten sich, und am folgenden Tage war sehr schönes Wetter mit
 schwachem Nordost; einige Tage lang legten wir nur einen kurzen Weg zurück.
 
-Den 21en oder 22ten umsegelten wir Cap-Finisterre^[^0424]^. Außerhalb der Spitze, welche
+Den 21ten oder 22ten umsegelten wir Cap-Finisterre^[^0424]^. Außerhalb der Spitze, welche
 den Meerbusen von Gascogne begränzt, trennten sich die Loire und der Argus; da
 sie schlechte Segler waren, konnten sie unmöglich der Fregatte folgen, die sie
 nicht anders in ihrer Nähe hätte behalten können, als vermittelst der Bramstange
