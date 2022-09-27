@@ -1,6 +1,6 @@
 
 :::: {.wrap-50 .break-after }
-![150 Franzosen suchten ihr Heil auf dieser Maschine; nur 15 fanden Rettung nach 13 taeglichen Leiden.](Medusa_001.jpg ""){#koenig}
+![150 Franzosen suchten ihr Heil auf dieser Maschine; nur 15 fanden Rettung nach 13 taeglichen Leiden.](medusa_001.jpg ""){#medusa}
 ::::
 
 

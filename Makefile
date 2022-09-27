@@ -21,6 +21,7 @@ ARGS_HTML = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) --reference-location=section --me
 ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) $(METADATA_ARG) --reference-location=block
 METADATA_PDF = chapters/preface/metadata_pdf_html.md
 PREFACE_EPUB = chapters/preface/preface_epub.md
+PREFACE_HTML_PDF = chapters/preface/preface_epub.md
 #CALIBRE="../../calibre/Calibre Portable/Calibre/"
 CALIBRE = 
 PANDOC = pandoc
