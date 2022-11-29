@@ -1,5 +1,7 @@
 # Schiffbruch der Fregatte Medusa auf ihrer Fahrt nach dem Senegal.
 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193358770-aa3e6b87-614d-42e2-80e3-bd33cbb85650.jpg">
+
 This is a git repository of the source files for the book
 "Schiffbruch der Fregatte Medusa auf ihrer Fahrt nach dem Senegal".
 
@@ -27,5 +29,3 @@ This work is in the public domain in the United States because it was published
 # Sources
 Scan at [Google books](https://books.google.de/books?id=XItCAAAAcAAJ&dq=inauthor%3A%22Jean%20Baptiste%20Henri%20Savigny%22&hl=de&pg=PP9#v=onepage&q&f=false)
 
-# ePUB
-Schiffbruch der Fregatte Medusa auf ihrer Fahrt nach dem Senegal. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=338940)
