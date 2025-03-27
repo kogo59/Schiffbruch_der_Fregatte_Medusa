@@ -3152,12 +3152,6 @@ außerordentlich gedeihen würden, aber wohlverstanden nicht mit Begünstigung d
 Sklavenhandels.
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^0400]: [*Flûte*: vergleiche [En flûte](https://en.wikipedia.org/wiki/En_fl%C3%BBte)]{.footnote}
 
 [^0401]: [Die Medusa war als Flûte ausgerüstet und hatte nur 14 Kanonen an Bord. Ihre Ausrüstung, so wie die der Loire fand zu Rochefort statt.]{.footnote}

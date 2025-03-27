@@ -88,6 +88,3 @@ Emilie Sommer. 8. 1784. 1 Thlr.
 :::
 
 
-:::: align-center
-****
-::::

@@ -129,11 +129,6 @@ Fregatte Medusa kamen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0353]: [*Cap-Blanc*: vergleiche [Cap Blanc](https://de.wikipedia.org/wiki/Cap_Blanc_(Mauretanien))]{.footnote}
 
