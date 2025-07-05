@@ -1,6 +1,6 @@
 # Schiffbruch der Fregatte Medusa auf ihrer Fahrt nach dem Senegal.
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193358770-aa3e6b87-614d-42e2-80e3-bd33cbb85650.jpg">
+<img align="right" width="200" src="https://user-images.githubusercontent.com/13177792/193358770-aa3e6b87-614d-42e2-80e3-bd33cbb85650.jpg">
 
 This is a git repository of the source files for the book
 "Schiffbruch der Fregatte Medusa auf ihrer Fahrt nach dem Senegal".
